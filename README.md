@@ -1,12 +1,12 @@
 # Calendário de Leilões — Leiloaria Smart
 
-Calendário web que mostra, dia a dia, quantos lotes têm praça agendada. Clicando
-no dia abre a lista com horário, valor e link direto para a página do lote em
-`leiloariasmart.com.br`.
+Calendário web que mostra, dia a dia, quantos lotes **encerram** naquela data.
+Clicando no dia abre a lista com horário, valor e link direto para a página do
+lote em `leiloariasmart.com.br`.
 
-**No ar em:** https://leiloaria-smart.github.io
-(o endereço definitivo será `calendario.leiloariasmart.com.br` — falta o
-registro no DNS; ver [Domínio próprio](#domínio-próprio))
+**No ar em:** https://calendario.leiloariasmart.com.br
+(`leiloaria-smart.github.io` continua respondendo e redireciona para lá; ver
+[Domínio próprio](#domínio-próprio))
 
 > O repositório se chama `Leiloaria-Smart.github.io` de propósito: repositório
 > com o nome `usuario.github.io` é publicado na **raiz** do endereço, sem o
@@ -121,8 +121,14 @@ calendario-leiloes/
 }
 ```
 
-**Cada praça vira um evento no calendário.** Um imóvel com 1ª e 2ª praça aparece
-nos dois dias — por isso `totalPracas` (261) é maior que `total` (187).
+**Só o encerramento vira evento no calendário — um por imóvel.** O JSON traz
+todas as praças (por isso `totalPracas` é maior que `total`), mas o calendário
+exibe apenas a que fecha o lote: a **2ª praça** para quem tem duas, a **praça
+única** para os outros. A 1ª praça é etapa intermediária e não aparece — nem na
+grade, nem nos KPIs, nem nos gráficos.
+
+Cuidado ao mexer: `1ª praça` e `Praça única` têm **as duas `ordem: 1`**; o que as
+separa é o `rotulo`. Quem decide é `ehEncerramento()` no `index.html`.
 
 ---
 
@@ -192,6 +198,8 @@ conferência reclamou.
 - **Praças já encerradas** vêm marcadas com `"encerrada": true` (o site rasura
   esses blocos). Elas continuam no JSON para manter o histórico do mês; o
   calendário só exibe o que ainda vai acontecer.
+- **O filtro "Praça" só tem 2ª e única.** Não há opção de 1ª praça porque ela
+  não entra no calendário.
 - **"Hoje" é o dia em Brasília**, não em UTC nem no fuso de quem abre a página.
   O calendário se vira sozinho: como a data é calculada no navegador a cada
   visita, ele avança de dia mesmo que passe uma semana sem commit novo.
@@ -232,6 +240,17 @@ pode atrasar ou ser descartada em horário de pico — por isso o agendamento é
 
 ### Domínio próprio
 
+**No ar em `calendario.leiloariasmart.com.br` desde 20/08/2026.** Está assim:
+
+| Onde | O quê |
+|---|---|
+| Route 53, zona `leiloariasmart.com.br` | `CNAME`, nome `calendario`, valor `leiloaria-smart.github.io`, TTL 300 |
+| Settings → Pages → Custom domain | `calendario.leiloariasmart.com.br` |
+| Settings → Pages → Enforce HTTPS | marcado — o certificado é emitido e renovado pelo GitHub |
+
+No valor do `CNAME` não entra o nome do repositório — é sempre
+`usuario.github.io`.
+
 O DNS de `leiloariasmart.com.br` está no **Route 53 (AWS)**.
 
 > **Atenção, e isso engana:** o *e-mail* do domínio está na Hostinger (os `MX`
@@ -249,24 +268,19 @@ O DNS de `leiloariasmart.com.br` está no **Route 53 (AWS)**.
 > painel, e só quem tem acesso ao Route 53 consegue listar a zona inteira com
 > segurança — de fora, só dá para achar os nomes que se adivinha.
 
-Para o endereço definitivo, criar na zona hospedada do Route 53:
-
-| Campo | Valor |
-|---|---|
-| Tipo | `CNAME` |
-| Nome | `calendario` |
-| Valor | `leiloaria-smart.github.io` |
-| TTL | 300 |
-
-Sem o nome do repositório no valor — é sempre `usuario.github.io`.
-
-Depois que o DNS resolver, o domínio é registrado em Settings → Pages → Custom
-domain, e o *Enforce HTTPS* fica disponível quando o certificado sair (pode
-levar até 24 h).
-
 **Não adianta criar um arquivo `CNAME` na pasta `site/`**: com publicação via
 Actions, o GitHub ignora esse arquivo. O domínio vive só na configuração do
-Pages.
+Pages — e por isso mudar de domínio não pede commit nenhum, só o campo em
+Settings e o registro no Route 53.
+
+O *Enforce HTTPS* só fica clicável depois que o certificado sai. Aqui saiu em
+poucos minutos, mas o GitHub se reserva 24 h; até lá o `https://` pode dar erro
+de certificado, e não é DNS errado.
+
+Como este repositório é o site raiz da organização, o domínio vale como base do
+Pages de toda a `Leiloaria-Smart`: um segundo repositório publicando no Pages
+responderia em `calendario.leiloariasmart.com.br/nome-do-repo`, a menos que
+receba um domínio próprio.
 
 ---
 

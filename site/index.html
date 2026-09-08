@@ -440,7 +440,6 @@
         <label for="fPraca">Praça</label>
         <select id="fPraca">
           <option value="">Todas</option>
-          <option value="1">Primeira praça</option>
           <option value="2">Segunda praça</option>
           <option value="unica">Praça única</option>
         </select>
@@ -641,11 +640,17 @@
     return true;
   }
 
+  function ehUnica(p){ return /única|unica/i.test(p.rotulo || ''); }
+
+  // só o encerramento entra no calendário: a 1ª praça é etapa intermediária —
+  // quem fecha o lote é a 2ª praça, ou a praça única, que já é o encerramento.
+  // 1ª e única têm as duas ordem 1 no JSON; o que as separa é o rótulo.
+  function ehEncerramento(p){ return p.ordem === 2 || ehUnica(p); }
+
   function pracaPassa(p){
     if (!filtros.praca) return true;
-    var unica = /única|unica/i.test(p.rotulo || '');
-    if (filtros.praca === 'unica') return unica;
-    if (unica) return false;                       // única não é 1ª nem 2ª
+    if (filtros.praca === 'unica') return ehUnica(p);
+    if (ehUnica(p)) return false;                  // única não é 2ª
     return String(p.ordem) === filtros.praca;
   }
 
@@ -654,7 +659,7 @@
   // e gráficos. Como tudo na página é calculado a partir daqui, basta este
   // filtro para a janela inteira andar sozinha todo dia.
   function pracaNaJanela(p){ return p.data >= hojeISO && p.data <= limiteISO; }
-  function pracaVale(p){ return pracaNaJanela(p) && pracaPassa(p); }
+  function pracaVale(p){ return ehEncerramento(p) && pracaNaJanela(p) && pracaPassa(p); }
 
   function contarAtivos(){
     var n = 0;
