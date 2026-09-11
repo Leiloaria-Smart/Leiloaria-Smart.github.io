@@ -418,7 +418,13 @@ async function main() {
     if (novos.length) {
       fs.writeFileSync(
         NOVOS,
-        JSON.stringify(novos.map(({ id, titulo, url }) => ({ id, titulo, url })), null, 1),
+        JSON.stringify(
+          novos.map(({ id, titulo, url, tipo, cidade, uf, precoDestaque }) => (
+            { id, titulo, url, tipo, cidade, uf, precoDestaque }
+          )),
+          null,
+          1
+        ),
         'utf8'
       );
       console.log(`\n${novos.length} imóvel(is) novo(s) desde a última coleta:`);

@@ -112,8 +112,12 @@ jobs:
 
           de='tech@leiloariasmart.com.br'
           qtd=$(jq 'length' novos-imoveis.json)
+          hora=$(TZ=America/Sao_Paulo date +%Hh%M)
           assunto="$qtd imóvel(is) novo(s) na Leiloaria Smart"
-          corpo=$(jq -r '.[] | "- " + .titulo + "\n  " + .url' novos-imoveis.json)
+          corpo=$(jq -r '
+            to_entries[] |
+            "\(.key+1). \(.value.titulo)\n   \(.value.tipo // "Imóvel") | \(.value.cidade // "—")/\(.value.uf // "—") | \(.value.precoDestaque // "—")\n   \(.value.url)\n"
+          ' novos-imoveis.json)
 
           {
             printf 'From: Calendário Leiloaria Smart <%s>\r\n' "$de"
@@ -121,8 +125,12 @@ jobs:
             printf 'Subject: %s\r\n' "$assunto"
             printf 'Content-Type: text/plain; charset=utf-8\r\n'
             printf '\r\n'
-            printf '%s imóvel(is) novo(s) na plataforma desde a última varredura:\r\n\r\n' "$qtd"
+            printf 'Olá, equipe de marketing!\r\n\r\n'
+            printf 'A varredura das %s encontrou %s imóvel(is) novo(s) na plataforma. Segue a lista para a campanha:\r\n\r\n' "$hora" "$qtd"
             printf '%s\n' "$corpo" | sed 's/$/\r/'
+            printf -- '--\r\n'
+            printf 'Automação do Calendário de Leilões — Leiloaria Smart\r\n'
+            printf 'calendario.leiloariasmart.com.br\r\n'
           } > email.txt
 
           curl --silent --show-error --ssl-reqd \
