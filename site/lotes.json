@@ -1,992 +1,11 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-10T09:25:33.036Z",
- "total": 59,
- "totalPracas": 73,
- "primeiraData": "2026-09-08",
+ "atualizadoEm": "2026-09-11T09:25:05.825Z",
+ "total": 23,
+ "totalPracas": 36,
+ "primeiraData": "2026-09-09",
  "ultimaData": "2026-10-21",
  "lotes": [
-  {
-   "id": 1636,
-   "titulo": "Apartamento Duplex 254m² — Lavras/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1636",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/6764eeebea58a779d534961b7abeb6bf.jpg",
-   "tipo": "Apartamento",
-   "cidade": "Lavras",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": "Desocupado",
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 1.450.000,00",
-   "visitas": 3102,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "11:00",
-     "valor": "R$ 1.450.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1637,
-   "titulo": "Terreno 480m² — Formiga/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1637",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/a6aaaa8bda6fad844aa746b24952778c.jpg",
-   "tipo": "Terreno",
-   "cidade": "Formiga",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": "Desocupado",
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 135.000,00",
-   "visitas": 2803,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "11:10",
-     "valor": "R$ 135.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1638,
-   "titulo": "Edificação Mista 360m² — Pouso Alegre/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1638",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/07bb7237f6c19dd19992b326169bfd95.jpg",
-   "tipo": "Edificação Mista",
-   "cidade": "Pouso Alegre",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 750.000,00",
-   "visitas": 2292,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "11:20",
-     "valor": "R$ 750.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1639,
-   "titulo": "Terreno 1.000m² — Carmópolis de Minas/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1639",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/c754b49906a3bb7b50f1ba9d3d77a5d2.jpg",
-   "tipo": "Terreno",
-   "cidade": "Carmópolis de Minas",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": "Desocupado",
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 95.590,24",
-   "visitas": 2511,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "11:30",
-     "valor": "R$ 95.590,24",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1640,
-   "titulo": "Terreno 1.000m² — Carmópolis de Minas/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1640",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/f2f09942f00543d4902835f8116ca792.jpg",
-   "tipo": "Terreno",
-   "cidade": "Carmópolis de Minas",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": "Desocupado",
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 95.590,24",
-   "visitas": 2576,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "11:40",
-     "valor": "R$ 95.590,24",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1641,
-   "titulo": "Terreno 3.745m² — Carmópolis de Minas/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1641",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/0a2d93a9234986045c137d8e1f64b9ce.jpg",
-   "tipo": "Terreno",
-   "cidade": "Carmópolis de Minas",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": "Desocupado",
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 394.018,31",
-   "visitas": 2484,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "11:50",
-     "valor": "R$ 394.018,31",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1642,
-   "titulo": "Terreno de 800m² — Carmópolis de Minas/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1642",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/52e0ee778a6ac8515b04e3fd4bc936b6.jpg",
-   "tipo": "Terreno",
-   "cidade": "Carmópolis de Minas",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": "Desocupado",
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 76.938,49",
-   "visitas": 2381,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "12:00",
-     "valor": "R$ 76.938,49",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1643,
-   "titulo": "Terreno de 8.541m² — Lavras/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1643",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/2a7c3029167d4efa2e42aa9e7e18ec6a.jpg",
-   "tipo": "Terreno",
-   "cidade": "Lavras",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": "Desocupado",
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 465.700,00",
-   "visitas": 2711,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "12:10",
-     "valor": "R$ 465.700,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1644,
-   "titulo": "Terreno de 1.204m² — Ilicínea/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1644",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/b84e79220f2be907dfef067370669af0.jpg",
-   "tipo": "Terreno",
-   "cidade": "Ilicínea",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 378.000,00",
-   "visitas": 2836,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "12:20",
-     "valor": "R$ 378.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1645,
-   "titulo": "Terreno de 560m² — Boa Esperança/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1645",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/96a9fe679e08a311c329227cf5edb09a.jpg",
-   "tipo": "Terreno",
-   "cidade": "Boa Esperança",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 110.000,00",
-   "visitas": 1957,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "12:30",
-     "valor": "R$ 110.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1646,
-   "titulo": "Terreno de 210m² — Santo Antônio do Amparo/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1646",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/81b3982c55d212810e0f6ed8f407bb6c.jpg",
-   "tipo": "Terreno",
-   "cidade": "Santo Antônio do Amparo",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 69.000,00",
-   "visitas": 2343,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "12:40",
-     "valor": "R$ 69.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1647,
-   "titulo": "Terreno de 210m² — Santo Antônio do Amparo/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1647",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/fa044321c5489899b18f50dc8803f441.jpg",
-   "tipo": "Terreno",
-   "cidade": "Santo Antônio do Amparo",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 60.000,00",
-   "visitas": 2288,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "12:50",
-     "valor": "R$ 60.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1648,
-   "titulo": "Terreno de 240m² — Santo Antônio do Amparo/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1648",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/0b528eee7451c2398c778f7dee09e296.jpg",
-   "tipo": "Terreno",
-   "cidade": "Santo Antônio do Amparo",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 73.000,00",
-   "visitas": 2209,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "13:00",
-     "valor": "R$ 73.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1649,
-   "titulo": "Terreno de 381m² — Santo Antônio do Amparo/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1649",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/1cdba155360f945abf56cfcd24328efb.jpg",
-   "tipo": "Terreno",
-   "cidade": "Santo Antônio do Amparo",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 105.000,00",
-   "visitas": 2337,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "13:10",
-     "valor": "R$ 105.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1650,
-   "titulo": "Terreno de 1.093m² — São Sebastião da Bela Vista/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1650",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/e8bdf946f09c48c6c0d198a0f592ec0f.jpg",
-   "tipo": "Terreno",
-   "cidade": "São Sebastião da Bela Vista",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 74.087,06",
-   "visitas": 2341,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "13:20",
-     "valor": "R$ 74.087,06",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1652,
-   "titulo": "Terreno de 1.000m² — São Sebastião da Bela Vista/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1652",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/ff07ef4715d1c90c7bfbe821e09740de.jpg",
-   "tipo": "Terreno",
-   "cidade": "São Sebastião da Bela Vista",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 61.562,45",
-   "visitas": 2289,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "13:30",
-     "valor": "R$ 61.562,45",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1654,
-   "titulo": "Terreno de 1.000m² — São Sebastião da Bela Vista/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1654",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/8d334f74ac84306cbd5bd7303d018da9.jpg",
-   "tipo": "Terreno",
-   "cidade": "São Sebastião da Bela Vista",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 61.562,45",
-   "visitas": 1907,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "13:40",
-     "valor": "R$ 61.562,45",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1657,
-   "titulo": "Terreno de 1.000m² — São Sebastião da Bela Vista/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1657",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/352f671c6d573ec5d44134052a2f47bb.jpg",
-   "tipo": "Terreno",
-   "cidade": "São Sebastião da Bela Vista",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 61.562,45",
-   "visitas": 2337,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "13:50",
-     "valor": "R$ 61.562,45",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1807,
-   "titulo": "Lote de Terreno 1.000m² – Limeira/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1807",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/599202abefcad4d4c307d2dc237d8a3e.jpg",
-   "tipo": "Terreno",
-   "cidade": "Limeira",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "PALAZZO UNO EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
-   "situacao": "Desocupado",
-   "desconto": "-3%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 457.479,22",
-   "visitas": 1203,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-08",
-     "dataBr": "08/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 445.670,00",
-     "encerrada": true
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 457.479,22",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1659,
-   "titulo": "Terreno de 1.000m² — São Sebastião da Bela Vista/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1659",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/6b8b28ed30832743a98d67a50ed75daf.jpg",
-   "tipo": "Terreno",
-   "cidade": "São Sebastião da Bela Vista",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 61.562,45",
-   "visitas": 2237,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 61.562,45",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1663,
-   "titulo": "Terreno de 1.000m² — São Sebastião da Bela Vista/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1663",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/62cb814e5da611c260d5f5c49d9cbc5e.jpg",
-   "tipo": "Terreno",
-   "cidade": "São Sebastião da Bela Vista",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 61.562,45",
-   "visitas": 2385,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "14:10",
-     "valor": "R$ 61.562,45",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1664,
-   "titulo": "Terreno de 1.000m² — São Sebastião da Bela Vista/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1664",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/76aed681006af30b68d9eb6d3a15a5d6.jpg",
-   "tipo": "Terreno",
-   "cidade": "São Sebastião da Bela Vista",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 61.562,45",
-   "visitas": 2421,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "14:20",
-     "valor": "R$ 61.562,45",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1665,
-   "titulo": "Terreno de 1.000m² — São Sebastião da Bela Vista/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1665",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/dd8642926b44a676b91f56e231749eaa.jpg",
-   "tipo": "Terreno",
-   "cidade": "São Sebastião da Bela Vista",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 61.562,45",
-   "visitas": 1917,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "14:30",
-     "valor": "R$ 61.562,45",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1666,
-   "titulo": "Terreno de 2.170m² — Oliveira/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1666",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/688eb407c42e2311e32c90fd0a98f341.jpg",
-   "tipo": "Terreno",
-   "cidade": "Oliveira",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 434.000,00",
-   "visitas": 2402,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "14:40",
-     "valor": "R$ 434.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1667,
-   "titulo": "Terreno urbano de 438m² — Oliveira/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1667",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/b559a313400122d6f63efe62f69b7cbf.jpg",
-   "tipo": "Terreno",
-   "cidade": "Oliveira",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 269.370,00",
-   "visitas": 2085,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "14:50",
-     "valor": "R$ 269.370,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1763,
-   "titulo": "Imóvel Misto 1.224m² – Araruna/PR",
-   "url": "https://leiloariasmart.com.br/imovel/1763",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/a5371a242856aebdc62f2dfa8980a7f4.jpg",
-   "tipo": "Imóvel misto",
-   "cidade": "Araruna",
-   "uf": "PR",
-   "modalidade": "Extrajudicial",
-   "comitente": "Banco Triangulo",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 2.000.000,00",
-   "visitas": 1609,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "15:00",
-     "valor": "R$ 2.000.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1762,
-   "titulo": "Imóvel Comercial 1.906m² – Itamaraju/BA",
-   "url": "https://leiloariasmart.com.br/imovel/1762",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/79c317a8dee025c654ed46d347c56fec.jpg",
-   "tipo": "Imóvel comercial",
-   "cidade": "Itamaraju",
-   "uf": "BA",
-   "modalidade": "Extrajudicial",
-   "comitente": "Banco Triangulo",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 791.000,00",
-   "visitas": 1746,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "15:00",
-     "valor": "R$ 791.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1760,
-   "titulo": "Imóvel Misto 510m² – Pérola/PR",
-   "url": "https://leiloariasmart.com.br/imovel/1760",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/d4de5e9e7044ae90625d6384c684c4c0.jpg",
-   "tipo": "Imóvel misto",
-   "cidade": "Pérola",
-   "uf": "PR",
-   "modalidade": "Extrajudicial",
-   "comitente": "Banco Triangulo",
-   "situacao": "Desocupado",
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 785.000,00",
-   "visitas": 1431,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "15:00",
-     "valor": "R$ 785.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1759,
-   "titulo": "Terreno Urbano 4.513m² – Catanduva/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1759",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/933edd37a3a6b147f407e03a4dffb15b.jpg",
-   "tipo": "Terreno",
-   "cidade": "Catanduva",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "Banco Triangulo",
-   "situacao": "Desocupado",
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 705.000,00",
-   "visitas": 2006,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "15:00",
-     "valor": "R$ 705.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1668,
-   "titulo": "Sala comercial 85m² — Varginha/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1668",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/e250967947b4fe9589b852b325f1852f.jpg",
-   "tipo": "Sala comercial",
-   "cidade": "Varginha",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 333.528,35",
-   "visitas": 2574,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "15:00",
-     "valor": "R$ 333.528,35",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1761,
-   "titulo": "Terreno Urbano 1.140m² – Monte Alegre de Minas/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1761",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/0c42c7884bf50e03846b292cef16065a.jpg",
-   "tipo": "Terreno",
-   "cidade": "Monte Alegre de Minas",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "Banco Triangulo",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 217.000,00",
-   "visitas": 1866,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "15:00",
-     "valor": "R$ 217.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1669,
-   "titulo": "Sala comercial de 80m² — Varginha/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1669",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/dce83a47d180373424dff6b48b750a07.jpg",
-   "tipo": "Sala comercial",
-   "cidade": "Varginha",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 333.528,37",
-   "visitas": 2104,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "15:10",
-     "valor": "R$ 333.528,37",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1670,
-   "titulo": "Terreno de 618m² — Consolação/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1670",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/9c8f3eaba51b713cb562a03af6c5c755.jpg",
-   "tipo": "Terreno",
-   "cidade": "Consolação",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 102.472,68",
-   "visitas": 2376,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "15:20",
-     "valor": "R$ 102.472,68",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1671,
-   "titulo": "Terreno rural de 24.200m² — Boa Esperança/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1671",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/7bb0691f131217d161b910240510e959.jpg",
-   "tipo": "Terreno",
-   "cidade": "Boa Esperança",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 669.000,00",
-   "visitas": 2466,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "15:30",
-     "valor": "R$ 669.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1672,
-   "titulo": "Terreno rural de 72.600m² — Boa Esperança/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1672",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/d2104b0032da71db1f94d823255d9fb2.jpg",
-   "tipo": "Terreno",
-   "cidade": "Boa Esperança",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 1.894.900,00",
-   "visitas": 2699,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "15:40",
-     "valor": "R$ 1.894.900,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1673,
-   "titulo": "Terreno rural de 48.520m² — Boa Esperança/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1673",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/e451f979a13d417516dfb1e9390220d1.jpg",
-   "tipo": "Terreno",
-   "cidade": "Boa Esperança",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 5.000.000,00",
-   "visitas": 2474,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-10",
-     "dataBr": "10/09/2026",
-     "hora": "15:50",
-     "valor": "R$ 5.000.000,00",
-     "encerrada": false
-    }
-   ]
-  },
   {
    "id": 1785,
    "titulo": "Apartamento 74m² – Florianópolis/SC",
@@ -1001,7 +20,7 @@
    "desconto": "28%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 2008,
+   "visitas": 2093,
    "pracas": [
     {
      "ordem": 1,
@@ -1037,7 +56,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 1905,
+   "visitas": 1971,
    "pracas": [
     {
      "ordem": 1,
@@ -1064,7 +83,7 @@
    "desconto": "45%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 89.144,77",
-   "visitas": 1017,
+   "visitas": 1065,
    "pracas": [
     {
      "ordem": 1,
@@ -1100,7 +119,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 1183,
+   "visitas": 1229,
    "pracas": [
     {
      "ordem": 1,
@@ -1127,7 +146,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.100.000,00",
-   "visitas": 518,
+   "visitas": 576,
    "pracas": [
     {
      "ordem": 1,
@@ -1154,7 +173,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 680.000,00",
-   "visitas": 523,
+   "visitas": 608,
    "pracas": [
     {
      "ordem": 1,
@@ -1181,7 +200,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1601,
+   "visitas": 1642,
    "pracas": [
     {
      "ordem": 1,
@@ -1208,7 +227,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 981,
+   "visitas": 1028,
    "pracas": [
     {
      "ordem": 1,
@@ -1235,7 +254,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 928,
+   "visitas": 1125,
    "pracas": [
     {
      "ordem": 1,
@@ -1262,7 +281,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 986,
+   "visitas": 1225,
    "pracas": [
     {
      "ordem": 1,
@@ -1289,7 +308,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 618,
+   "visitas": 857,
    "pracas": [
     {
      "ordem": 1,
@@ -1316,7 +335,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 377,
+   "visitas": 577,
    "pracas": [
     {
      "ordem": 1,
@@ -1343,7 +362,7 @@
    "desconto": "4%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 410.715,73",
-   "visitas": 1153,
+   "visitas": 1200,
    "pracas": [
     {
      "ordem": 1,
@@ -1379,7 +398,7 @@
    "desconto": "48%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 125.549,58",
-   "visitas": 1721,
+   "visitas": 1771,
    "pracas": [
     {
      "ordem": 1,
@@ -1415,7 +434,7 @@
    "desconto": "13%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 402.114,37",
-   "visitas": 634,
+   "visitas": 681,
    "pracas": [
     {
      "ordem": 1,
@@ -1451,7 +470,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 718,
+   "visitas": 820,
    "pracas": [
     {
      "ordem": 1,
@@ -1487,7 +506,7 @@
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 823,
+   "visitas": 868,
    "pracas": [
     {
      "ordem": 1,
@@ -1523,7 +542,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 429.844,00",
-   "visitas": 759,
+   "visitas": 801,
    "pracas": [
     {
      "ordem": 1,
@@ -1559,7 +578,7 @@
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 114.708,02",
-   "visitas": 966,
+   "visitas": 1010,
    "pracas": [
     {
      "ordem": 1,
@@ -1595,7 +614,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1121,
+   "visitas": 1166,
    "pracas": [
     {
      "ordem": 1,
@@ -1631,7 +650,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 130,
+   "visitas": 190,
    "pracas": [
     {
      "ordem": 1,
@@ -1667,7 +686,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.339.742,82",
-   "visitas": 417,
+   "visitas": 475,
    "pracas": [
     {
      "ordem": 1,
@@ -1703,7 +722,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 658,
+   "visitas": 722,
    "pracas": [
     {
      "ordem": 1,
