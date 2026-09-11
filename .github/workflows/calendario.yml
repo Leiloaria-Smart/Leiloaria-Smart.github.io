@@ -20,6 +20,11 @@ on:
       - 'scraper.js'
       - '.github/workflows/calendario.yml'
   workflow_dispatch:
+    inputs:
+      teste_email:
+        description: 'Mandar e-mail de teste pro marketing, com dado falso (não espera imóvel novo de verdade)'
+        type: boolean
+        default: false
 
 # Uma publicação por vez. O grupo tem nome fixo (e não a chave dinâmica de
 # sempre) para que o run agendado e um run manual nunca disputem a publicação.
@@ -93,6 +98,22 @@ jobs:
             git push
             echo "Dados atualizados: $resumo" >> "$GITHUB_STEP_SUMMARY"
           fi
+
+      # Só em disparo manual com a caixinha marcada. Sobrescreve o que o
+      # scraper decidiu, com dado claramente falso — "[TESTE]" no título avisa
+      # quem olhar o e-mail que não é imóvel real para campanha.
+      - name: Forçar imóvel falso (teste do e-mail)
+        if: github.event.inputs.teste_email == 'true'
+        run: |
+          jq -n '[{
+            id: 0,
+            titulo: "[TESTE] Apto 88m² - Goiânia/GO",
+            url: "https://leiloariasmart.com.br/busca",
+            tipo: "Apartamento",
+            cidade: "Goiânia",
+            uf: "GO",
+            precoDestaque: "R$ 470.000,00"
+          }]' > novos-imoveis.json
 
       # `novos-imoveis.json` só existe quando o scraper viu id novo desde a
       # coleta anterior (ver scraper.js) — nunca é comitado.
