@@ -132,6 +132,14 @@ jobs:
           fi
 
           de='tech@leiloariasmart.com.br'
+          para=(
+            marketing@leiloariasmart.com.br
+            marketing2@leiloariasmart.com.br
+            avaliacao@leiloariasmart.com.br
+            lucas@leiloariasmart.com.br
+          )
+          para_header=$(printf '%s, ' "${para[@]}"); para_header=${para_header%, }
+
           qtd=$(jq 'length' novos-imoveis.json)
           hora=$(TZ=America/Sao_Paulo date +%Hh%M)
           assunto="$qtd imóvel(is) novo(s) na Leiloaria Smart"
@@ -142,7 +150,7 @@ jobs:
 
           {
             printf 'From: Calendário Leiloaria Smart <%s>\r\n' "$de"
-            printf 'To: marketing@leiloariasmart.com.br\r\n'
+            printf 'To: %s\r\n' "$para_header"
             printf 'Subject: %s\r\n' "$assunto"
             printf 'Content-Type: text/plain; charset=utf-8\r\n'
             printf '\r\n'
@@ -154,10 +162,13 @@ jobs:
             printf 'calendario.leiloariasmart.com.br\r\n'
           } > email.txt
 
+          rcpt_args=()
+          for e in "${para[@]}"; do rcpt_args+=(--mail-rcpt "$e"); done
+
           curl --silent --show-error --ssl-reqd \
             --url 'smtps://smtp.hostinger.com:465' \
             --mail-from "$de" \
-            --mail-rcpt 'marketing@leiloariasmart.com.br' \
+            "${rcpt_args[@]}" \
             --user "$de:$SMTP_PASS" \
             --upload-file email.txt
 
