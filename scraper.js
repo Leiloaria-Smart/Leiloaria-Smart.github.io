@@ -21,6 +21,10 @@ const FONTE = `${BASE}/busca`;
 const SAIDA = path.join(__dirname, 'site', 'lotes.json');
 const SAIDA_JS = SAIDA.replace(/\.json$/, '.js');
 
+// Fica na raiz do repo, não em site/: é para o workflow ler e montar o
+// e-mail do marketing, nunca é comitado nem publicado.
+const NOVOS = path.join(__dirname, 'novos-imoveis.json');
+
 const UA =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' +
   '(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
@@ -404,6 +408,25 @@ async function main() {
   console.log(`OK -> ${SAIDA_JS}`);
   console.log(`  ${saida.total} lotes | ${saida.totalPracas} datas de praça`);
   console.log(`  período: ${saida.primeiraData} a ${saida.ultimaData}`);
+
+  // Imóvel novo = id que não estava na coleta anterior. Só compara se havia
+  // coleta anterior de verdade — na primeira vez que o site roda, "anterior"
+  // é vazio e tudo pareceria novo, disparando um e-mail gigante e falso.
+  if (anterior) {
+    const idsAntes = new Set(anterior.lotes.map((l) => l.id));
+    const novos = saida.lotes.filter((l) => !idsAntes.has(l.id));
+    if (novos.length) {
+      fs.writeFileSync(
+        NOVOS,
+        JSON.stringify(novos.map(({ id, titulo, url }) => ({ id, titulo, url })), null, 1),
+        'utf8'
+      );
+      console.log(`\n${novos.length} imóvel(is) novo(s) desde a última coleta:`);
+      novos.forEach((l) => console.log(`  - ${l.titulo} -> ${l.url}`));
+    } else {
+      fs.rmSync(NOVOS, { force: true });
+    }
+  }
 
   // resumo por dia
   const porDia = {};

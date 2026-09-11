@@ -94,6 +94,47 @@ jobs:
             echo "Dados atualizados: $resumo" >> "$GITHUB_STEP_SUMMARY"
           fi
 
+      # `novos-imoveis.json` só existe quando o scraper viu id novo desde a
+      # coleta anterior (ver scraper.js) — nunca é comitado.
+      # `continue-on-error`: um SMTP fora do ar ou senha vencida não pode
+      # travar a publicação do calendário, que é o que importa de verdade.
+      # Falhando, o passo fica marcado (⚠) no run, mas o job segue.
+      - name: Avisar o marketing sobre imóveis novos
+        id: aviso
+        continue-on-error: true
+        env:
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+        run: |
+          if [ ! -s novos-imoveis.json ]; then
+            echo 'Nenhum imóvel novo nesta coleta — nada para avisar.'
+            exit 0
+          fi
+
+          de='tech@leiloariasmart.com.br'
+          qtd=$(jq 'length' novos-imoveis.json)
+          assunto="$qtd imóvel(is) novo(s) na Leiloaria Smart"
+          corpo=$(jq -r '.[] | "- " + .titulo + "\n  " + .url' novos-imoveis.json)
+
+          {
+            printf 'From: Calendário Leiloaria Smart <%s>\r\n' "$de"
+            printf 'To: marketing@leiloariasmart.com.br\r\n'
+            printf 'Subject: %s\r\n' "$assunto"
+            printf 'Content-Type: text/plain; charset=utf-8\r\n'
+            printf '\r\n'
+            printf '%s imóvel(is) novo(s) na plataforma desde a última varredura:\r\n\r\n' "$qtd"
+            printf '%s\n' "$corpo" | sed 's/$/\r/'
+          } > email.txt
+
+          curl --silent --show-error --ssl-reqd \
+            --url 'smtps://smtp.hostinger.com:465' \
+            --mail-from "$de" \
+            --mail-rcpt 'marketing@leiloariasmart.com.br' \
+            --user "$de:$SMTP_PASS" \
+            --upload-file email.txt
+
+          rm -f email.txt novos-imoveis.json
+          echo "Avisei o marketing: $assunto" >> "$GITHUB_STEP_SUMMARY"
+
   publicar:
     name: Publicar no Pages
     needs: dados

@@ -223,6 +223,28 @@ jobs. O agendamento é `13 12-22 * * 1-5` — de hora em hora das 12h13 às 22h1
 UTC, segunda a sexta, que é 9h13 às 19h13 em Brasília (UTC-3 o ano todo, sem
 horário de verão).
 
+### Aviso ao marketing quando sobe imóvel novo
+
+Toda vez que uma varredura encontra `id` de imóvel que não estava na coleta
+anterior, o job `dados` manda um e-mail de `tech@leiloariasmart.com.br` para
+`marketing@leiloariasmart.com.br` com a contagem e o link de cada um. Quem
+decide isso é o próprio `scraper.js` (comparando com o `lotes.json` que já
+estava no disco antes de sobrescrever); o passo *Avisar o marketing sobre
+imóveis novos*, no workflow, só lê o resultado (`novos-imoveis.json`, gerado
+na raiz do repo, nunca comitado) e manda pelo SMTP da Hostinger via `curl`.
+
+Não dispara na primeira execução depois de configurado (não há "anterior"
+para comparar) nem quando a coleta é rejeitada pela conferência — só quando
+um imóvel realmente novo aparece numa coleta válida.
+
+**Configuração:** o repositório precisa do secret `SMTP_PASS` (Settings →
+Secrets and variables → Actions → New repository secret), com a senha da
+caixa `tech@leiloariasmart.com.br`. Host, porta e usuário (SMTP da Hostinger,
+`smtp.hostinger.com:465`) estão fixos no workflow — só a senha é secreta.
+Sem o secret configurado, o passo falha mas **não trava a publicação do
+calendário** (`continue-on-error: true` — ver comentário no workflow);
+ele só aparece marcado no run do Actions.
+
 ### Por que tudo num run só
 
 Um push feito de dentro de um workflow com o `GITHUB_TOKEN` **não dispara outro

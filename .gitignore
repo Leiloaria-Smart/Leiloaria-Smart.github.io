@@ -9,3 +9,6 @@ Thumbs.db
 # HTML bruto baixado durante depuração do scraper
 *.html.bak
 busca.html
+
+# gerado pelo scraper para o workflow avisar o marketing; nunca comitado
+novos-imoveis.json
