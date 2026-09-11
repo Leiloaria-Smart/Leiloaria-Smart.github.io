@@ -1,6 +1,6 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-11T17:18:22.328Z",
+ "atualizadoEm": "2026-09-11T17:25:37.298Z",
  "total": 23,
  "totalPracas": 35,
  "primeiraData": "2026-09-09",
@@ -20,7 +20,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 2050,
+   "visitas": 2052,
    "pracas": [
     {
      "ordem": 1,
@@ -316,7 +316,7 @@
    "id": 1830,
    "titulo": "Apartamento 62m² – São Paulo/SP",
    "url": "https://leiloariasmart.com.br/imovel/1830",
-   "imagem": null,
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/d59efffe6744c04ce5ca117cfa63ab71.png",
    "tipo": "Apartamento",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -326,7 +326,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 1,
+   "visitas": 5,
    "pracas": [
     {
      "ordem": 1,
@@ -713,7 +713,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 735,
+   "visitas": 736,
    "pracas": [
     {
      "ordem": 1,
