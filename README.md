@@ -227,7 +227,7 @@ horário de verão).
 
 Toda vez que uma varredura encontra `id` de imóvel que não estava na coleta
 anterior, o job `dados` manda um e-mail de `tech@leiloariasmart.com.br` para
-`marketing@`, `marketing2@`, `avaliacao@` e `lucas@leiloariasmart.com.br` com a
+`marketing@`, `avaliacao@` e `lucas@leiloariasmart.com.br` com a
 contagem e o tipo/cidade/preço/link de cada um. Quem decide isso é o próprio
 `scraper.js` (comparando com o `lotes.json` que já estava no disco antes de
 sobrescrever); o passo *Avisar o marketing sobre imóveis novos*, no workflow,
