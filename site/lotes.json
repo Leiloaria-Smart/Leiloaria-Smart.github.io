@@ -1,47 +1,11 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-11T16:27:52.925Z",
+ "atualizadoEm": "2026-09-11T17:18:22.328Z",
  "total": 23,
- "totalPracas": 36,
+ "totalPracas": 35,
  "primeiraData": "2026-09-09",
- "ultimaData": "2026-10-21",
+ "ultimaData": "2026-10-22",
  "lotes": [
-  {
-   "id": 1785,
-   "titulo": "Apartamento 74m² – Florianópolis/SC",
-   "url": "https://leiloariasmart.com.br/imovel/1785",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/aaba14ecc96094e0ef10a6ea369dd140.png",
-   "tipo": "Apartamento",
-   "cidade": "Florianópolis",
-   "uf": "SC",
-   "modalidade": "Extrajudicial",
-   "comitente": "Santiago Home Equity FIDC",
-   "situacao": null,
-   "desconto": "28%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 236.239,60",
-   "visitas": 2135,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-09",
-     "dataBr": "09/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 330.000,00",
-     "encerrada": true
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-11",
-     "dataBr": "11/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 236.239,60",
-     "encerrada": false
-    }
-   ]
-  },
   {
    "id": 1764,
    "titulo": "CASA 59M²–BEBEDOURO SP",
@@ -56,7 +20,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 2045,
+   "visitas": 2050,
    "pracas": [
     {
      "ordem": 1,
@@ -83,7 +47,7 @@
    "desconto": "45%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 89.144,77",
-   "visitas": 1078,
+   "visitas": 1080,
    "pracas": [
     {
      "ordem": 1,
@@ -119,7 +83,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 1242,
+   "visitas": 1244,
    "pracas": [
     {
      "ordem": 1,
@@ -146,7 +110,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.100.000,00",
-   "visitas": 595,
+   "visitas": 599,
    "pracas": [
     {
      "ordem": 1,
@@ -173,7 +137,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 680.000,00",
-   "visitas": 633,
+   "visitas": 638,
    "pracas": [
     {
      "ordem": 1,
@@ -200,7 +164,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1651,
+   "visitas": 1653,
    "pracas": [
     {
      "ordem": 1,
@@ -227,7 +191,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1038,
+   "visitas": 1040,
    "pracas": [
     {
      "ordem": 1,
@@ -254,7 +218,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1142,
+   "visitas": 1144,
    "pracas": [
     {
      "ordem": 1,
@@ -281,7 +245,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1241,
+   "visitas": 1242,
    "pracas": [
     {
      "ordem": 1,
@@ -308,7 +272,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 912,
+   "visitas": 913,
    "pracas": [
     {
      "ordem": 1,
@@ -335,7 +299,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 594,
+   "visitas": 597,
    "pracas": [
     {
      "ordem": 1,
@@ -344,6 +308,33 @@
      "dataBr": "19/10/2026",
      "hora": "14:00",
      "valor": "R$ 2.100.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1830,
+   "titulo": "Apartamento 62m² – São Paulo/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1830",
+   "imagem": null,
+   "tipo": "Apartamento",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "RIZA SECURITIZADORA S.A",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 249.425,93",
+   "visitas": 1,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-10-22",
+     "dataBr": "22/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 249.425,93",
      "encerrada": false
     }
    ]
@@ -362,7 +353,7 @@
    "desconto": "4%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 410.715,73",
-   "visitas": 1214,
+   "visitas": 1216,
    "pracas": [
     {
      "ordem": 1,
@@ -398,7 +389,7 @@
    "desconto": "48%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 125.549,58",
-   "visitas": 1784,
+   "visitas": 1787,
    "pracas": [
     {
      "ordem": 1,
@@ -434,7 +425,7 @@
    "desconto": "13%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 402.114,37",
-   "visitas": 695,
+   "visitas": 698,
    "pracas": [
     {
      "ordem": 1,
@@ -470,7 +461,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 838,
+   "visitas": 839,
    "pracas": [
     {
      "ordem": 1,
@@ -506,7 +497,7 @@
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 879,
+   "visitas": 880,
    "pracas": [
     {
      "ordem": 1,
@@ -542,7 +533,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 429.844,00",
-   "visitas": 809,
+   "visitas": 810,
    "pracas": [
     {
      "ordem": 1,
@@ -578,7 +569,7 @@
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 114.708,02",
-   "visitas": 1019,
+   "visitas": 1020,
    "pracas": [
     {
      "ordem": 1,
@@ -614,7 +605,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1177,
+   "visitas": 1178,
    "pracas": [
     {
      "ordem": 1,
@@ -650,7 +641,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 203,
+   "visitas": 204,
    "pracas": [
     {
      "ordem": 1,
@@ -686,7 +677,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.339.742,82",
-   "visitas": 493,
+   "visitas": 495,
    "pracas": [
     {
      "ordem": 1,
@@ -722,7 +713,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 733,
+   "visitas": 735,
    "pracas": [
     {
      "ordem": 1,
