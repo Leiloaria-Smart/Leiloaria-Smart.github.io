@@ -1,8 +1,8 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-11T17:25:37.298Z",
- "total": 23,
- "totalPracas": 35,
+ "atualizadoEm": "2026-09-11T19:24:51.100Z",
+ "total": 24,
+ "totalPracas": 36,
  "primeiraData": "2026-09-09",
  "ultimaData": "2026-10-22",
  "lotes": [
@@ -20,7 +20,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 2052,
+   "visitas": 2090,
    "pracas": [
     {
      "ordem": 1,
@@ -47,7 +47,7 @@
    "desconto": "45%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 89.144,77",
-   "visitas": 1080,
+   "visitas": 1086,
    "pracas": [
     {
      "ordem": 1,
@@ -83,7 +83,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 1244,
+   "visitas": 1248,
    "pracas": [
     {
      "ordem": 1,
@@ -110,7 +110,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.100.000,00",
-   "visitas": 599,
+   "visitas": 602,
    "pracas": [
     {
      "ordem": 1,
@@ -137,7 +137,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 680.000,00",
-   "visitas": 638,
+   "visitas": 642,
    "pracas": [
     {
      "ordem": 1,
@@ -164,7 +164,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1653,
+   "visitas": 1654,
    "pracas": [
     {
      "ordem": 1,
@@ -191,7 +191,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1040,
+   "visitas": 1041,
    "pracas": [
     {
      "ordem": 1,
@@ -218,7 +218,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1144,
+   "visitas": 1145,
    "pracas": [
     {
      "ordem": 1,
@@ -272,7 +272,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 913,
+   "visitas": 915,
    "pracas": [
     {
      "ordem": 1,
@@ -299,7 +299,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 597,
+   "visitas": 598,
    "pracas": [
     {
      "ordem": 1,
@@ -326,7 +326,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 5,
+   "visitas": 20,
    "pracas": [
     {
      "ordem": 1,
@@ -335,6 +335,33 @@
      "dataBr": "22/10/2026",
      "hora": "14:00",
      "valor": "R$ 249.425,93",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1831,
+   "titulo": "Apto 62m² Nova Iguaçu - Rio de Janeiro/RJ",
+   "url": "https://leiloariasmart.com.br/imovel/1831",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/77eb88bf184f1bc20c2845a2d4c53807.png",
+   "tipo": "Apartamento",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "modalidade": "Extrajudicial",
+   "comitente": "RIZA SECURITIZADORA S.A",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 160.000,00",
+   "visitas": 1,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-10-22",
+     "dataBr": "22/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 160.000,00",
      "encerrada": false
     }
    ]
@@ -389,7 +416,7 @@
    "desconto": "48%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 125.549,58",
-   "visitas": 1787,
+   "visitas": 1815,
    "pracas": [
     {
      "ordem": 1,
@@ -425,7 +452,7 @@
    "desconto": "13%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 402.114,37",
-   "visitas": 698,
+   "visitas": 701,
    "pracas": [
     {
      "ordem": 1,
@@ -461,7 +488,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 839,
+   "visitas": 843,
    "pracas": [
     {
      "ordem": 1,
@@ -497,7 +524,7 @@
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 880,
+   "visitas": 881,
    "pracas": [
     {
      "ordem": 1,
@@ -533,7 +560,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 429.844,00",
-   "visitas": 810,
+   "visitas": 812,
    "pracas": [
     {
      "ordem": 1,
@@ -569,7 +596,7 @@
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 114.708,02",
-   "visitas": 1020,
+   "visitas": 1021,
    "pracas": [
     {
      "ordem": 1,
@@ -605,7 +632,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1178,
+   "visitas": 1179,
    "pracas": [
     {
      "ordem": 1,
@@ -641,7 +668,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 204,
+   "visitas": 207,
    "pracas": [
     {
      "ordem": 1,
@@ -677,7 +704,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.339.742,82",
-   "visitas": 495,
+   "visitas": 497,
    "pracas": [
     {
      "ordem": 1,
