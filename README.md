@@ -14,19 +14,20 @@ lote em `leiloariasmart.com.br`.
 > do site junto.
 
 Os dados são extraídos automaticamente de https://leiloariasmart.com.br/busca,
-todo dia às 6h13 da manhã, sem ninguém precisar rodar nada.
+de hora em hora das 9h às 19h, segunda a sexta, sem ninguém precisar rodar
+nada.
 
 ---
 
 ## Como funciona, em uma frase
 
-Um workflow do GitHub Actions roda o scraper todo dia, commita os dados se o
-acervo mudou e republica o site. **Não há nada para fazer manualmente** — nem
-rodar script, nem subir arquivo.
+Um workflow do GitHub Actions roda o scraper de hora em hora, commita os dados
+se o acervo mudou e republica o site. **Não há nada para fazer manualmente** —
+nem rodar script, nem subir arquivo.
 
 ```
-06:13 → scraper → mudou? → commit → publica no GitHub Pages
-                ↘ veio quebrado? → não publica → abre issue → e-mail
+9h, 10h, ... 19h (seg-sex) → scraper → mudou? → commit → publica no GitHub Pages
+                                    ↘ veio quebrado? → não publica → abre issue → e-mail
 ```
 
 ---
@@ -218,7 +219,9 @@ conferência reclamou.
 ## Publicação e atualização automática
 
 Tudo vive em `.github/workflows/calendario.yml`, num único workflow com três
-jobs. O agendamento é `13 9 * * *` — 09:13 UTC, que é 06:13 em Brasília.
+jobs. O agendamento é `13 12-22 * * 1-5` — de hora em hora das 12h13 às 22h13
+UTC, segunda a sexta, que é 9h13 às 19h13 em Brasília (UTC-3 o ano todo, sem
+horário de verão).
 
 ### Por que tudo num run só
 
@@ -236,7 +239,7 @@ anterior empurra os dados.
 Actions → *Atualizar e publicar o calendário* → **Run workflow**. Serve também
 quando uma execução agendada for pulada (o GitHub avisa que execução agendada
 pode atrasar ou ser descartada em horário de pico — por isso o agendamento é
-6h13 e não 6h em ponto).
+sempre no minuto 13, e não em ponto).
 
 ### Domínio próprio
 

@@ -8,10 +8,11 @@ name: Atualizar e publicar o calendário
 
 on:
   schedule:
-    # 09:13 UTC = 06:13 em Brasília (UTC-3 o ano todo, sem horário de verão).
+    # De hora em hora, 9h-19h em Brasília, segunda a sexta (UTC-3 o ano todo,
+    # sem horário de verão = 12h-22h UTC). Dia da semana 1-5 é seg-sex (0=dom).
     # Não é no minuto 0 porque a virada da hora é o pico de carga do Actions e
     # execuções agendadas atrasam — ou são descartadas — justamente aí.
-    - cron: '13 9 * * *'
+    - cron: '13 12-22 * * 1-5'
   push:
     branches: [main]
     paths:
