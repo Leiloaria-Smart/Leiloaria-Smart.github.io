@@ -147,10 +147,22 @@ jobs:
             "\(.key+1). \(.value.titulo)\n   \(.value.tipo // "Imóvel") | \(.value.cidade // "—")/\(.value.uf // "—") | \(.value.precoDestaque // "—")\n   \(.value.url)\n"
           ' novos-imoveis.json)
 
+          # Sem isso, cai em spam com facilidade: filtro pesa muito a falta de
+          # Date/Message-ID (marca de e-mail forjado à mão) e cabeçalho em
+          # UTF-8 cru sem MIME encoding (Subject e nome de exibição do From).
+          b64() { printf '%s' "$1" | base64 -w0; }
+          data_hdr=$(date -u +'%a, %d %b %Y %H:%M:%S +0000')
+          msgid="<$(date -u +%Y%m%d%H%M%S)-$$@leiloariasmart.com.br>"
+          de_nome="=?UTF-8?B?$(b64 'Calendário Leiloaria Smart')?="
+          assunto_mime="=?UTF-8?B?$(b64 "$assunto")?="
+
           {
-            printf 'From: Calendário Leiloaria Smart <%s>\r\n' "$de"
+            printf 'Date: %s\r\n' "$data_hdr"
+            printf 'Message-ID: %s\r\n' "$msgid"
+            printf 'From: %s <%s>\r\n' "$de_nome" "$de"
             printf 'To: %s\r\n' "$para_header"
-            printf 'Subject: %s\r\n' "$assunto"
+            printf 'Subject: %s\r\n' "$assunto_mime"
+            printf 'MIME-Version: 1.0\r\n'
             printf 'Content-Type: text/plain; charset=utf-8\r\n'
             printf '\r\n'
             printf 'Olá, equipe de marketing!\r\n\r\n'
