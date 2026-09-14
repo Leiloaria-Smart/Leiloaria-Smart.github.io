@@ -1,8 +1,8 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-14T13:30:10.811Z",
- "total": 24,
- "totalPracas": 36,
+ "atualizadoEm": "2026-09-14T18:30:51.727Z",
+ "total": 25,
+ "totalPracas": 37,
  "primeiraData": "2026-09-09",
  "ultimaData": "2026-10-22",
  "lotes": [
@@ -20,7 +20,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 2246,
+   "visitas": 2258,
    "pracas": [
     {
      "ordem": 1,
@@ -47,7 +47,7 @@
    "desconto": "45%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 89.144,77",
-   "visitas": 1218,
+   "visitas": 1472,
    "pracas": [
     {
      "ordem": 1,
@@ -83,7 +83,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 1370,
+   "visitas": 1373,
    "pracas": [
     {
      "ordem": 1,
@@ -110,7 +110,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.100.000,00",
-   "visitas": 728,
+   "visitas": 735,
    "pracas": [
     {
      "ordem": 1,
@@ -137,7 +137,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 680.000,00",
-   "visitas": 770,
+   "visitas": 780,
    "pracas": [
     {
      "ordem": 1,
@@ -164,7 +164,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1761,
+   "visitas": 1766,
    "pracas": [
     {
      "ordem": 1,
@@ -191,7 +191,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1155,
+   "visitas": 1160,
    "pracas": [
     {
      "ordem": 1,
@@ -218,7 +218,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1256,
+   "visitas": 1320,
    "pracas": [
     {
      "ordem": 1,
@@ -245,7 +245,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1348,
+   "visitas": 1352,
    "pracas": [
     {
      "ordem": 1,
@@ -272,7 +272,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1100,
+   "visitas": 1105,
    "pracas": [
     {
      "ordem": 1,
@@ -299,7 +299,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 735,
+   "visitas": 742,
    "pracas": [
     {
      "ordem": 1,
@@ -308,6 +308,33 @@
      "dataBr": "19/10/2026",
      "hora": "14:00",
      "valor": "R$ 2.100.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1832,
+   "titulo": "Casa 74m² – São Mateus/ES",
+   "url": "https://leiloariasmart.com.br/imovel/1832",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/02755ac4348ff22f51aebcbf29ba2284.jpg",
+   "tipo": "Casa",
+   "cidade": "São Mateus",
+   "uf": "ES",
+   "modalidade": "Extrajudicial",
+   "comitente": "RIZA SECURITIZADORA S.A",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 308.824,31",
+   "visitas": 7,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-10-20",
+     "dataBr": "20/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 308.824,31",
      "encerrada": false
     }
    ]
@@ -326,7 +353,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 151,
+   "visitas": 155,
    "pracas": [
     {
      "ordem": 1,
@@ -353,7 +380,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 146,
+   "visitas": 152,
    "pracas": [
     {
      "ordem": 1,
@@ -380,7 +407,7 @@
    "desconto": "4%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 410.715,73",
-   "visitas": 1330,
+   "visitas": 1334,
    "pracas": [
     {
      "ordem": 1,
@@ -416,7 +443,7 @@
    "desconto": "48%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 125.549,58",
-   "visitas": 1950,
+   "visitas": 2043,
    "pracas": [
     {
      "ordem": 1,
@@ -452,7 +479,7 @@
    "desconto": "13%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 402.114,37",
-   "visitas": 825,
+   "visitas": 988,
    "pracas": [
     {
      "ordem": 1,
@@ -488,7 +515,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 966,
+   "visitas": 972,
    "pracas": [
     {
      "ordem": 1,
@@ -524,7 +551,7 @@
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 1004,
+   "visitas": 1231,
    "pracas": [
     {
      "ordem": 1,
@@ -560,7 +587,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 429.844,00",
-   "visitas": 926,
+   "visitas": 931,
    "pracas": [
     {
      "ordem": 1,
@@ -596,7 +623,7 @@
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 114.708,02",
-   "visitas": 1130,
+   "visitas": 1134,
    "pracas": [
     {
      "ordem": 1,
@@ -632,7 +659,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1288,
+   "visitas": 1291,
    "pracas": [
     {
      "ordem": 1,
@@ -668,7 +695,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 342,
+   "visitas": 590,
    "pracas": [
     {
      "ordem": 1,
@@ -704,7 +731,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.339.742,82",
-   "visitas": 619,
+   "visitas": 768,
    "pracas": [
     {
      "ordem": 1,
@@ -740,7 +767,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 858,
+   "visitas": 1053,
    "pracas": [
     {
      "ordem": 1,
