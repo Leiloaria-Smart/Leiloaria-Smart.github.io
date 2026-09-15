@@ -1,38 +1,11 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-14T18:30:51.727Z",
- "total": 25,
- "totalPracas": 37,
+ "atualizadoEm": "2026-09-15T17:24:27.864Z",
+ "total": 24,
+ "totalPracas": 36,
  "primeiraData": "2026-09-09",
  "ultimaData": "2026-10-22",
  "lotes": [
-  {
-   "id": 1764,
-   "titulo": "CASA 59M²–BEBEDOURO SP",
-   "url": "https://leiloariasmart.com.br/imovel/1764",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/7e0ddf5073f228877b50a64c688b607b.jpg",
-   "tipo": "Casa",
-   "cidade": "Bebedouro",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "RIZA SECURITIZADORA S.A",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 78.660,67",
-   "visitas": 2258,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-15",
-     "dataBr": "15/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 78.660,67",
-     "encerrada": false
-    }
-   ]
-  },
   {
    "id": 1813,
    "titulo": "Terreno 390m² – Divinópolis/MG",
@@ -47,7 +20,7 @@
    "desconto": "45%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 89.144,77",
-   "visitas": 1472,
+   "visitas": 1935,
    "pracas": [
     {
      "ordem": 1,
@@ -83,7 +56,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 1373,
+   "visitas": 1497,
    "pracas": [
     {
      "ordem": 1,
@@ -110,7 +83,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.100.000,00",
-   "visitas": 735,
+   "visitas": 789,
    "pracas": [
     {
      "ordem": 1,
@@ -137,7 +110,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 680.000,00",
-   "visitas": 780,
+   "visitas": 837,
    "pracas": [
     {
      "ordem": 1,
@@ -146,6 +119,42 @@
      "dataBr": "17/09/2026",
      "hora": "14:00",
      "valor": "R$ 680.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1809,
+   "titulo": "Lote de Terreno 1.005m² – Limeira/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1809",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/587e7bc802c4211456352b04a3ff58b9.jpg",
+   "tipo": "Terreno",
+   "cidade": "Limeira",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "Anagro Agropecuária Ltda",
+   "situacao": "Desocupado",
+   "desconto": "4%",
+   "descontoTexto": "abaixo na 2ª praça",
+   "precoDestaque": "R$ 410.715,73",
+   "visitas": 1380,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "1ª praça",
+     "data": "2026-09-15",
+     "dataBr": "15/09/2026",
+     "hora": "14:00",
+     "valor": "R$ 410.715,73",
+     "encerrada": false
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2ª praça",
+     "data": "2026-09-17",
+     "dataBr": "17/09/2026",
+     "hora": "14:00",
+     "valor": "R$ 395.585,49",
      "encerrada": false
     }
    ]
@@ -164,7 +173,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1766,
+   "visitas": 1810,
    "pracas": [
     {
      "ordem": 1,
@@ -173,6 +182,42 @@
      "dataBr": "17/09/2026",
      "hora": "14:00",
      "valor": "R$ 80.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1822,
+   "titulo": "Apartamento 80m² – Araxá/MG",
+   "url": "https://leiloariasmart.com.br/imovel/1822",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/28de9d0c4b3c621660cd650459078848.jpg",
+   "tipo": "Apartamento",
+   "cidade": "Araxá",
+   "uf": "MG",
+   "modalidade": "Extrajudicial",
+   "comitente": "VERT Companhia Securitizadora",
+   "situacao": null,
+   "desconto": "13%",
+   "descontoTexto": "abaixo na 2ª praça",
+   "precoDestaque": "R$ 402.114,37",
+   "visitas": 1316,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "1ª praça",
+     "data": "2026-09-15",
+     "dataBr": "15/09/2026",
+     "hora": "14:00",
+     "valor": "R$ 402.114,37",
+     "encerrada": false
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2ª praça",
+     "data": "2026-09-21",
+     "dataBr": "21/09/2026",
+     "hora": "14:00",
+     "valor": "R$ 349.175,08",
      "encerrada": false
     }
    ]
@@ -191,7 +236,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1160,
+   "visitas": 1203,
    "pracas": [
     {
      "ordem": 1,
@@ -218,7 +263,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1320,
+   "visitas": 1361,
    "pracas": [
     {
      "ordem": 1,
@@ -245,7 +290,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1352,
+   "visitas": 1392,
    "pracas": [
     {
      "ordem": 1,
@@ -272,7 +317,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1105,
+   "visitas": 1141,
    "pracas": [
     {
      "ordem": 1,
@@ -299,7 +344,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 742,
+   "visitas": 795,
    "pracas": [
     {
      "ordem": 1,
@@ -326,7 +371,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 7,
+   "visitas": 68,
    "pracas": [
     {
      "ordem": 1,
@@ -353,7 +398,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 155,
+   "visitas": 198,
    "pracas": [
     {
      "ordem": 1,
@@ -380,7 +425,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 152,
+   "visitas": 193,
    "pracas": [
     {
      "ordem": 1,
@@ -389,42 +434,6 @@
      "dataBr": "22/10/2026",
      "hora": "14:00",
      "valor": "R$ 160.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1809,
-   "titulo": "Lote de Terreno 1.005m² – Limeira/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1809",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/587e7bc802c4211456352b04a3ff58b9.jpg",
-   "tipo": "Terreno",
-   "cidade": "Limeira",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "Anagro Agropecuária Ltda",
-   "situacao": "Desocupado",
-   "desconto": "4%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 410.715,73",
-   "visitas": 1334,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-15",
-     "dataBr": "15/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 410.715,73",
-     "encerrada": false
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-17",
-     "dataBr": "17/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 395.585,49",
      "encerrada": false
     }
    ]
@@ -443,7 +452,7 @@
    "desconto": "48%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 125.549,58",
-   "visitas": 2043,
+   "visitas": 2231,
    "pracas": [
     {
      "ordem": 1,
@@ -466,42 +475,6 @@
    ]
   },
   {
-   "id": 1822,
-   "titulo": "Apartamento 80m² – Araxá/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1822",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/28de9d0c4b3c621660cd650459078848.jpg",
-   "tipo": "Apartamento",
-   "cidade": "Araxá",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "VERT Companhia Securitizadora",
-   "situacao": null,
-   "desconto": "13%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 402.114,37",
-   "visitas": 988,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-15",
-     "dataBr": "15/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 402.114,37",
-     "encerrada": false
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-21",
-     "dataBr": "21/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 349.175,08",
-     "encerrada": false
-    }
-   ]
-  },
-  {
    "id": 1823,
    "titulo": "Apartamento 118m² – Perdizes, São Paulo/SP",
    "url": "https://leiloariasmart.com.br/imovel/1823",
@@ -515,7 +488,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 972,
+   "visitas": 1019,
    "pracas": [
     {
      "ordem": 1,
@@ -551,7 +524,7 @@
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 1231,
+   "visitas": 1461,
    "pracas": [
     {
      "ordem": 1,
@@ -587,7 +560,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 429.844,00",
-   "visitas": 931,
+   "visitas": 968,
    "pracas": [
     {
      "ordem": 1,
@@ -623,7 +596,7 @@
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 114.708,02",
-   "visitas": 1134,
+   "visitas": 1173,
    "pracas": [
     {
      "ordem": 1,
@@ -659,7 +632,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1291,
+   "visitas": 1329,
    "pracas": [
     {
      "ordem": 1,
@@ -695,7 +668,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 590,
+   "visitas": 794,
    "pracas": [
     {
      "ordem": 1,
@@ -731,7 +704,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.339.742,82",
-   "visitas": 768,
+   "visitas": 828,
    "pracas": [
     {
      "ordem": 1,
@@ -767,7 +740,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 1053,
+   "visitas": 1265,
    "pracas": [
     {
      "ordem": 1,
