@@ -1,10 +1,10 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-16T12:32:51.821Z",
- "total": 24,
- "totalPracas": 36,
+ "atualizadoEm": "2026-09-16T15:26:53.546Z",
+ "total": 25,
+ "totalPracas": 37,
  "primeiraData": "2026-09-09",
- "ultimaData": "2026-10-22",
+ "ultimaData": "2026-10-29",
  "lotes": [
   {
    "id": 1813,
@@ -20,7 +20,7 @@
    "desconto": "45%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 89.144,77",
-   "visitas": 2116,
+   "visitas": 2157,
    "pracas": [
     {
      "ordem": 1,
@@ -56,7 +56,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 1547,
+   "visitas": 1552,
    "pracas": [
     {
      "ordem": 1,
@@ -83,7 +83,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.100.000,00",
-   "visitas": 828,
+   "visitas": 836,
    "pracas": [
     {
      "ordem": 1,
@@ -110,7 +110,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 680.000,00",
-   "visitas": 872,
+   "visitas": 879,
    "pracas": [
     {
      "ordem": 1,
@@ -137,7 +137,7 @@
    "desconto": "4%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 395.585,49",
-   "visitas": 1413,
+   "visitas": 1420,
    "pracas": [
     {
      "ordem": 1,
@@ -173,7 +173,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1847,
+   "visitas": 1854,
    "pracas": [
     {
      "ordem": 1,
@@ -200,7 +200,7 @@
    "desconto": "13%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 349.175,08",
-   "visitas": 1464,
+   "visitas": 1488,
    "pracas": [
     {
      "ordem": 1,
@@ -236,7 +236,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1239,
+   "visitas": 1244,
    "pracas": [
     {
      "ordem": 1,
@@ -263,7 +263,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1394,
+   "visitas": 1437,
    "pracas": [
     {
      "ordem": 1,
@@ -290,7 +290,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1427,
+   "visitas": 1429,
    "pracas": [
     {
      "ordem": 1,
@@ -317,7 +317,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1174,
+   "visitas": 1178,
    "pracas": [
     {
      "ordem": 1,
@@ -344,7 +344,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 835,
+   "visitas": 842,
    "pracas": [
     {
      "ordem": 1,
@@ -371,7 +371,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 105,
+   "visitas": 108,
    "pracas": [
     {
      "ordem": 1,
@@ -398,7 +398,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 235,
+   "visitas": 239,
    "pracas": [
     {
      "ordem": 1,
@@ -425,7 +425,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 226,
+   "visitas": 231,
    "pracas": [
     {
      "ordem": 1,
@@ -434,6 +434,33 @@
      "dataBr": "22/10/2026",
      "hora": "14:00",
      "valor": "R$ 160.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1834,
+   "titulo": "Apartamento 74m² – Florianópolis/SC",
+   "url": "https://leiloariasmart.com.br/imovel/1834",
+   "imagem": null,
+   "tipo": "Apartamento",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "modalidade": "Extrajudicial",
+   "comitente": "Santiago Home Equity FIDC",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 236.239,60",
+   "visitas": 4,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-10-29",
+     "dataBr": "29/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 236.239,60",
      "encerrada": false
     }
    ]
@@ -452,7 +479,7 @@
    "desconto": "48%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 125.549,58",
-   "visitas": 2284,
+   "visitas": 2299,
    "pracas": [
     {
      "ordem": 1,
@@ -488,7 +515,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 1057,
+   "visitas": 1062,
    "pracas": [
     {
      "ordem": 1,
@@ -524,7 +551,7 @@
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 1554,
+   "visitas": 1564,
    "pracas": [
     {
      "ordem": 1,
@@ -560,7 +587,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 429.844,00",
-   "visitas": 1003,
+   "visitas": 1006,
    "pracas": [
     {
      "ordem": 1,
@@ -596,7 +623,7 @@
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 114.708,02",
-   "visitas": 1207,
+   "visitas": 1211,
    "pracas": [
     {
      "ordem": 1,
@@ -632,7 +659,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1363,
+   "visitas": 1366,
    "pracas": [
     {
      "ordem": 1,
@@ -668,7 +695,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 876,
+   "visitas": 883,
    "pracas": [
     {
      "ordem": 1,
@@ -704,7 +731,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.339.742,82",
-   "visitas": 863,
+   "visitas": 867,
    "pracas": [
     {
      "ordem": 1,
@@ -740,7 +767,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 1343,
+   "visitas": 1348,
    "pracas": [
     {
      "ordem": 1,
