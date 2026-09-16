@@ -1,47 +1,11 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-16T15:26:53.546Z",
- "total": 25,
+ "atualizadoEm": "2026-09-16T20:07:42.109Z",
+ "total": 26,
  "totalPracas": 37,
- "primeiraData": "2026-09-09",
+ "primeiraData": "2026-09-15",
  "ultimaData": "2026-10-29",
  "lotes": [
-  {
-   "id": 1813,
-   "titulo": "Terreno 390m² – Divinópolis/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1813",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/9009dcc3200809973a9358ec33cfdd24.jpg",
-   "tipo": "Terreno",
-   "cidade": "Divinópolis",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "VERT Companhia Securitizadora",
-   "situacao": null,
-   "desconto": "45%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 89.144,77",
-   "visitas": 2157,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-09",
-     "dataBr": "09/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 163.132,90",
-     "encerrada": true
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-16",
-     "dataBr": "16/09/2026",
-     "hora": "15:00",
-     "valor": "R$ 89.144,77",
-     "encerrada": false
-    }
-   ]
-  },
   {
    "id": 1806,
    "titulo": "3 Terrenos Urb 2500m² cada Brasília/DF",
@@ -56,7 +20,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 1552,
+   "visitas": 1561,
    "pracas": [
     {
      "ordem": 1,
@@ -83,7 +47,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.100.000,00",
-   "visitas": 836,
+   "visitas": 840,
    "pracas": [
     {
      "ordem": 1,
@@ -110,7 +74,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 680.000,00",
-   "visitas": 879,
+   "visitas": 883,
    "pracas": [
     {
      "ordem": 1,
@@ -137,7 +101,7 @@
    "desconto": "4%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 395.585,49",
-   "visitas": 1420,
+   "visitas": 1423,
    "pracas": [
     {
      "ordem": 1,
@@ -173,7 +137,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1854,
+   "visitas": 1858,
    "pracas": [
     {
      "ordem": 1,
@@ -182,6 +146,42 @@
      "dataBr": "17/09/2026",
      "hora": "14:00",
      "valor": "R$ 80.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1800,
+   "titulo": "Apartamento 25 m² – Porto Alegre/RS",
+   "url": "https://leiloariasmart.com.br/imovel/1800",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/8b9f3152b139f01313ab6b659f549159.jpg",
+   "tipo": "Apartamento",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "modalidade": "Extrajudicial",
+   "comitente": "VERT Companhia Securitizadora",
+   "situacao": null,
+   "desconto": "48%",
+   "descontoTexto": "abaixo na 2ª praça",
+   "precoDestaque": "R$ 125.549,58",
+   "visitas": 2320,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "1ª praça",
+     "data": "2026-09-16",
+     "dataBr": "16/09/2026",
+     "hora": "14:00",
+     "valor": "R$ 125.549,58",
+     "encerrada": false
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2ª praça",
+     "data": "2026-09-18",
+     "dataBr": "18/09/2026",
+     "hora": "14:00",
+     "valor": "R$ 65.711,83",
      "encerrada": false
     }
    ]
@@ -200,7 +200,7 @@
    "desconto": "13%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 349.175,08",
-   "visitas": 1488,
+   "visitas": 1496,
    "pracas": [
     {
      "ordem": 1,
@@ -236,7 +236,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1244,
+   "visitas": 1246,
    "pracas": [
     {
      "ordem": 1,
@@ -263,7 +263,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1437,
+   "visitas": 1438,
    "pracas": [
     {
      "ordem": 1,
@@ -290,7 +290,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1429,
+   "visitas": 1432,
    "pracas": [
     {
      "ordem": 1,
@@ -317,7 +317,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1178,
+   "visitas": 1182,
    "pracas": [
     {
      "ordem": 1,
@@ -344,7 +344,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 842,
+   "visitas": 848,
    "pracas": [
     {
      "ordem": 1,
@@ -371,7 +371,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 108,
+   "visitas": 110,
    "pracas": [
     {
      "ordem": 1,
@@ -398,7 +398,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 239,
+   "visitas": 245,
    "pracas": [
     {
      "ordem": 1,
@@ -425,7 +425,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 231,
+   "visitas": 232,
    "pracas": [
     {
      "ordem": 1,
@@ -439,10 +439,64 @@
    ]
   },
   {
+   "id": 1836,
+   "titulo": "CASA 59M²–BEBEDOURO SP",
+   "url": "https://leiloariasmart.com.br/imovel/1836",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/1e5271c8837053fe1394a3c59bac2660.jpg",
+   "tipo": "Casa",
+   "cidade": "Bebedouro",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "RIZA SECURITIZADORA S.A",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 78.660,67",
+   "visitas": 8,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-10-27",
+     "dataBr": "27/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 78.660,67",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1835,
+   "titulo": "Casa de Condomínio 347m² Itaboraí/RJ",
+   "url": "https://leiloariasmart.com.br/imovel/1835",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/a909bbc2c476f4bf1075f6f5598b0729.png",
+   "tipo": "Casa de Condomínio",
+   "cidade": "Itaboraí",
+   "uf": "RJ",
+   "modalidade": "Extrajudicial",
+   "comitente": "Santiago Home Equity FIDC",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 140.000,00",
+   "visitas": 9,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-10-28",
+     "dataBr": "28/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 140.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
    "id": 1834,
    "titulo": "Apartamento 74m² – Florianópolis/SC",
    "url": "https://leiloariasmart.com.br/imovel/1834",
-   "imagem": null,
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/539113bcd1679389b5c87ac42de8150c.png",
    "tipo": "Apartamento",
    "cidade": "Florianópolis",
    "uf": "SC",
@@ -452,7 +506,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 4,
+   "visitas": 18,
    "pracas": [
     {
      "ordem": 1,
@@ -461,42 +515,6 @@
      "dataBr": "29/10/2026",
      "hora": "14:00",
      "valor": "R$ 236.239,60",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1800,
-   "titulo": "Apartamento 25 m² – Porto Alegre/RS",
-   "url": "https://leiloariasmart.com.br/imovel/1800",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/8b9f3152b139f01313ab6b659f549159.jpg",
-   "tipo": "Apartamento",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "modalidade": "Extrajudicial",
-   "comitente": "VERT Companhia Securitizadora",
-   "situacao": null,
-   "desconto": "48%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 125.549,58",
-   "visitas": 2299,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-16",
-     "dataBr": "16/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 125.549,58",
-     "encerrada": false
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-18",
-     "dataBr": "18/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 65.711,83",
      "encerrada": false
     }
    ]
@@ -515,7 +533,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 1062,
+   "visitas": 1068,
    "pracas": [
     {
      "ordem": 1,
@@ -551,7 +569,7 @@
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 1564,
+   "visitas": 1578,
    "pracas": [
     {
      "ordem": 1,
@@ -587,7 +605,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 429.844,00",
-   "visitas": 1006,
+   "visitas": 1007,
    "pracas": [
     {
      "ordem": 1,
@@ -623,7 +641,7 @@
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 114.708,02",
-   "visitas": 1211,
+   "visitas": 1213,
    "pracas": [
     {
      "ordem": 1,
@@ -659,7 +677,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1366,
+   "visitas": 1367,
    "pracas": [
     {
      "ordem": 1,
@@ -695,7 +713,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 883,
+   "visitas": 930,
    "pracas": [
     {
      "ordem": 1,
@@ -731,7 +749,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.339.742,82",
-   "visitas": 867,
+   "visitas": 896,
    "pracas": [
     {
      "ordem": 1,
@@ -767,7 +785,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 1348,
+   "visitas": 1365,
    "pracas": [
     {
      "ordem": 1,
