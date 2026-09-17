@@ -1,155 +1,11 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-17T16:59:40.744Z",
- "total": 27,
- "totalPracas": 39,
+ "atualizadoEm": "2026-09-17T20:20:03.501Z",
+ "total": 22,
+ "totalPracas": 33,
  "primeiraData": "2026-09-15",
  "ultimaData": "2026-10-29",
  "lotes": [
-  {
-   "id": 1806,
-   "titulo": "3 Terrenos Urb 2500m² cada Brasília/DF",
-   "url": "https://leiloariasmart.com.br/imovel/1806",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/4b586951ed6140639d043c5bf3c4db9e.png",
-   "tipo": "Terreno",
-   "cidade": "cada Brasília",
-   "uf": "DF",
-   "modalidade": "Extrajudicial",
-   "comitente": "VIRGO Companhia de Securitização S.A",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 1625,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-17",
-     "dataBr": "17/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 2.046.703,43",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1825,
-   "titulo": "Casa Residencial 284m² – Residencial Mirante das Pedras – Santana de Parnaíba/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1825",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/97509697c292f18b475512beeb814d08.jpg",
-   "tipo": "Casa",
-   "cidade": "Santana de Parnaíba",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "Opea Securitizadora",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 1.100.000,00",
-   "visitas": 919,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-17",
-     "dataBr": "17/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 1.100.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1824,
-   "titulo": "Apartamento 218m² – Edifício Residencial Conte – Chapecó/SC",
-   "url": "https://leiloariasmart.com.br/imovel/1824",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/d1f6a0fd594bbac1053e84427ee71b72.jpg",
-   "tipo": "Apartamento",
-   "cidade": "Chapecó",
-   "uf": "SC",
-   "modalidade": "Extrajudicial",
-   "comitente": "Galleria Finanças Securitizadora S/A",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 680.000,00",
-   "visitas": 936,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-17",
-     "dataBr": "17/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 680.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1809,
-   "titulo": "Lote de Terreno 1.005m² – Limeira/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1809",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/587e7bc802c4211456352b04a3ff58b9.jpg",
-   "tipo": "Terreno",
-   "cidade": "Limeira",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "Anagro Agropecuária Ltda",
-   "situacao": "Desocupado",
-   "desconto": "4%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 395.585,49",
-   "visitas": 1469,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-15",
-     "dataBr": "15/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 410.715,73",
-     "encerrada": true
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-17",
-     "dataBr": "17/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 395.585,49",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1742,
-   "titulo": "Terreno Urbano 200m² – São José do Rio Preto/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1742",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/64567a9d5217c35eab20c45117cf4aef.png",
-   "tipo": "Terreno",
-   "cidade": "São José do Rio Preto",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "VIRGO Companhia de Securitização S.A",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 80.000,00",
-   "visitas": 1907,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-09-17",
-     "dataBr": "17/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 80.000,00",
-     "encerrada": false
-    }
-   ]
-  },
   {
    "id": 1800,
    "titulo": "Apartamento 25 m² – Porto Alegre/RS",
@@ -164,7 +20,7 @@
    "desconto": "48%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 65.711,83",
-   "visitas": 2458,
+   "visitas": 2483,
    "pracas": [
     {
      "ordem": 1,
@@ -200,7 +56,7 @@
    "desconto": "13%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 349.175,08",
-   "visitas": 1607,
+   "visitas": 1639,
    "pracas": [
     {
      "ordem": 1,
@@ -236,7 +92,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1281,
+   "visitas": 1289,
    "pracas": [
     {
      "ordem": 1,
@@ -263,7 +119,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1472,
+   "visitas": 1481,
    "pracas": [
     {
      "ordem": 1,
@@ -290,7 +146,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1465,
+   "visitas": 1472,
    "pracas": [
     {
      "ordem": 1,
@@ -317,7 +173,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1272,
+   "visitas": 1281,
    "pracas": [
     {
      "ordem": 1,
@@ -344,7 +200,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 931,
+   "visitas": 938,
    "pracas": [
     {
      "ordem": 1,
@@ -371,7 +227,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 141,
+   "visitas": 153,
    "pracas": [
     {
      "ordem": 1,
@@ -398,7 +254,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 285,
+   "visitas": 293,
    "pracas": [
     {
      "ordem": 1,
@@ -425,7 +281,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 432,
+   "visitas": 488,
    "pracas": [
     {
      "ordem": 1,
@@ -452,7 +308,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 61,
+   "visitas": 71,
    "pracas": [
     {
      "ordem": 1,
@@ -479,7 +335,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 228,
+   "visitas": 286,
    "pracas": [
     {
      "ordem": 1,
@@ -506,7 +362,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 251,
+   "visitas": 326,
    "pracas": [
     {
      "ordem": 1,
@@ -533,7 +389,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 1120,
+   "visitas": 1131,
    "pracas": [
     {
      "ordem": 1,
@@ -569,7 +425,7 @@
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 1653,
+   "visitas": 1662,
    "pracas": [
     {
      "ordem": 1,
@@ -605,7 +461,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 429.844,00",
-   "visitas": 1043,
+   "visitas": 1050,
    "pracas": [
     {
      "ordem": 1,
@@ -641,7 +497,7 @@
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 114.708,02",
-   "visitas": 1250,
+   "visitas": 1256,
    "pracas": [
     {
      "ordem": 1,
@@ -677,7 +533,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1403,
+   "visitas": 1412,
    "pracas": [
     {
      "ordem": 1,
@@ -713,7 +569,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 1022,
+   "visitas": 1038,
    "pracas": [
     {
      "ordem": 1,
@@ -749,7 +605,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.339.742,82",
-   "visitas": 1089,
+   "visitas": 1106,
    "pracas": [
     {
      "ordem": 1,
@@ -785,7 +641,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 1433,
+   "visitas": 1466,
    "pracas": [
     {
      "ordem": 1,
@@ -821,7 +677,7 @@
    "desconto": "-7%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 100.965,53",
-   "visitas": 12,
+   "visitas": 25,
    "pracas": [
     {
      "ordem": 1,
