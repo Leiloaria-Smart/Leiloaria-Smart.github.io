@@ -1,8 +1,8 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-16T20:07:42.109Z",
- "total": 26,
- "totalPracas": 37,
+ "atualizadoEm": "2026-09-17T16:59:40.744Z",
+ "total": 27,
+ "totalPracas": 39,
  "primeiraData": "2026-09-15",
  "ultimaData": "2026-10-29",
  "lotes": [
@@ -20,7 +20,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 1561,
+   "visitas": 1625,
    "pracas": [
     {
      "ordem": 1,
@@ -47,7 +47,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.100.000,00",
-   "visitas": 840,
+   "visitas": 919,
    "pracas": [
     {
      "ordem": 1,
@@ -74,7 +74,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 680.000,00",
-   "visitas": 883,
+   "visitas": 936,
    "pracas": [
     {
      "ordem": 1,
@@ -101,7 +101,7 @@
    "desconto": "4%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 395.585,49",
-   "visitas": 1423,
+   "visitas": 1469,
    "pracas": [
     {
      "ordem": 1,
@@ -137,7 +137,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1858,
+   "visitas": 1907,
    "pracas": [
     {
      "ordem": 1,
@@ -163,8 +163,8 @@
    "situacao": null,
    "desconto": "48%",
    "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 125.549,58",
-   "visitas": 2320,
+   "precoDestaque": "R$ 65.711,83",
+   "visitas": 2458,
    "pracas": [
     {
      "ordem": 1,
@@ -173,7 +173,7 @@
      "dataBr": "16/09/2026",
      "hora": "14:00",
      "valor": "R$ 125.549,58",
-     "encerrada": false
+     "encerrada": true
     },
     {
      "ordem": 2,
@@ -200,7 +200,7 @@
    "desconto": "13%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 349.175,08",
-   "visitas": 1496,
+   "visitas": 1607,
    "pracas": [
     {
      "ordem": 1,
@@ -236,7 +236,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1246,
+   "visitas": 1281,
    "pracas": [
     {
      "ordem": 1,
@@ -263,7 +263,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1438,
+   "visitas": 1472,
    "pracas": [
     {
      "ordem": 1,
@@ -290,7 +290,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1432,
+   "visitas": 1465,
    "pracas": [
     {
      "ordem": 1,
@@ -317,7 +317,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1182,
+   "visitas": 1272,
    "pracas": [
     {
      "ordem": 1,
@@ -344,7 +344,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 848,
+   "visitas": 931,
    "pracas": [
     {
      "ordem": 1,
@@ -371,7 +371,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 110,
+   "visitas": 141,
    "pracas": [
     {
      "ordem": 1,
@@ -398,7 +398,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 245,
+   "visitas": 285,
    "pracas": [
     {
      "ordem": 1,
@@ -425,7 +425,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 232,
+   "visitas": 432,
    "pracas": [
     {
      "ordem": 1,
@@ -452,7 +452,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 8,
+   "visitas": 61,
    "pracas": [
     {
      "ordem": 1,
@@ -479,7 +479,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 9,
+   "visitas": 228,
    "pracas": [
     {
      "ordem": 1,
@@ -506,7 +506,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 18,
+   "visitas": 251,
    "pracas": [
     {
      "ordem": 1,
@@ -533,7 +533,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 1068,
+   "visitas": 1120,
    "pracas": [
     {
      "ordem": 1,
@@ -569,7 +569,7 @@
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 1578,
+   "visitas": 1653,
    "pracas": [
     {
      "ordem": 1,
@@ -605,7 +605,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 429.844,00",
-   "visitas": 1007,
+   "visitas": 1043,
    "pracas": [
     {
      "ordem": 1,
@@ -641,7 +641,7 @@
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 114.708,02",
-   "visitas": 1213,
+   "visitas": 1250,
    "pracas": [
     {
      "ordem": 1,
@@ -677,7 +677,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1367,
+   "visitas": 1403,
    "pracas": [
     {
      "ordem": 1,
@@ -713,7 +713,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 930,
+   "visitas": 1022,
    "pracas": [
     {
      "ordem": 1,
@@ -749,7 +749,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.339.742,82",
-   "visitas": 896,
+   "visitas": 1089,
    "pracas": [
     {
      "ordem": 1,
@@ -785,7 +785,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 1365,
+   "visitas": 1433,
    "pracas": [
     {
      "ordem": 1,
@@ -803,6 +803,42 @@
      "dataBr": "21/10/2026",
      "hora": "14:00",
      "valor": "R$ 1.213.634,27",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1837,
+   "titulo": "Lote Residencial 275m² – Matão/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1837",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/332308f12b45dcbdfc964889145d19f9.jpeg",
+   "tipo": "Terreno",
+   "cidade": "Matão",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "JARDIM EUGENIA EMP. IMOBILIARIO LTDA",
+   "situacao": "Desocupado",
+   "desconto": "-7%",
+   "descontoTexto": "abaixo na 2ª praça",
+   "precoDestaque": "R$ 100.965,53",
+   "visitas": 12,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "1ª praça",
+     "data": "2026-10-21",
+     "dataBr": "21/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 100.965,53",
+     "encerrada": false
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2ª praça",
+     "data": "2026-10-23",
+     "dataBr": "23/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 108.031,46",
      "encerrada": false
     }
    ]
