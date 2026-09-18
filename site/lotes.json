@@ -1,47 +1,11 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-18T16:23:56.863Z",
- "total": 23,
- "totalPracas": 34,
+ "atualizadoEm": "2026-09-18T19:36:22.205Z",
+ "total": 22,
+ "totalPracas": 32,
  "primeiraData": "2026-09-15",
  "ultimaData": "2026-10-29",
  "lotes": [
-  {
-   "id": 1800,
-   "titulo": "Apartamento 25 m² – Porto Alegre/RS",
-   "url": "https://leiloariasmart.com.br/imovel/1800",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/8b9f3152b139f01313ab6b659f549159.jpg",
-   "tipo": "Apartamento",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "modalidade": "Extrajudicial",
-   "comitente": "VERT Companhia Securitizadora",
-   "situacao": null,
-   "desconto": "48%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 65.711,83",
-   "visitas": 2574,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-16",
-     "dataBr": "16/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 125.549,58",
-     "encerrada": true
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-18",
-     "dataBr": "18/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 65.711,83",
-     "encerrada": false
-    }
-   ]
-  },
   {
    "id": 1822,
    "titulo": "Apartamento 80m² – Araxá/MG",
@@ -56,7 +20,7 @@
    "desconto": "13%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 349.175,08",
-   "visitas": 1775,
+   "visitas": 1794,
    "pracas": [
     {
      "ordem": 1,
@@ -92,7 +56,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1339,
+   "visitas": 1340,
    "pracas": [
     {
      "ordem": 1,
@@ -146,7 +110,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1516,
+   "visitas": 1520,
    "pracas": [
     {
      "ordem": 1,
@@ -173,7 +137,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1321,
+   "visitas": 1322,
    "pracas": [
     {
      "ordem": 1,
@@ -200,7 +164,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 1000,
+   "visitas": 1003,
    "pracas": [
     {
      "ordem": 1,
@@ -227,7 +191,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 197,
+   "visitas": 199,
    "pracas": [
     {
      "ordem": 1,
@@ -254,7 +218,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 337,
+   "visitas": 338,
    "pracas": [
     {
      "ordem": 1,
@@ -281,7 +245,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 587,
+   "visitas": 603,
    "pracas": [
     {
      "ordem": 1,
@@ -308,7 +272,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.230.000,00",
-   "visitas": 24,
+   "visitas": 29,
    "pracas": [
     {
      "ordem": 1,
@@ -362,7 +326,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 358,
+   "visitas": 361,
    "pracas": [
     {
      "ordem": 1,
@@ -389,7 +353,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 477,
+   "visitas": 487,
    "pracas": [
     {
      "ordem": 1,
@@ -416,7 +380,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 1189,
+   "visitas": 1193,
    "pracas": [
     {
      "ordem": 1,
@@ -452,7 +416,7 @@
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 1728,
+   "visitas": 1742,
    "pracas": [
     {
      "ordem": 1,
@@ -560,7 +524,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1450,
+   "visitas": 1451,
    "pracas": [
     {
      "ordem": 1,
@@ -596,7 +560,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 1090,
+   "visitas": 1104,
    "pracas": [
     {
      "ordem": 1,
@@ -632,7 +596,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.339.742,82",
-   "visitas": 1215,
+   "visitas": 1222,
    "pracas": [
     {
      "ordem": 1,
@@ -668,7 +632,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 1531,
+   "visitas": 1539,
    "pracas": [
     {
      "ordem": 1,
@@ -704,7 +668,7 @@
    "desconto": "-7%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 100.965,53",
-   "visitas": 68,
+   "visitas": 69,
    "pracas": [
     {
      "ordem": 1,
