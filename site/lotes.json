@@ -1,47 +1,11 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-18T19:36:22.205Z",
- "total": 22,
- "totalPracas": 32,
- "primeiraData": "2026-09-15",
+ "atualizadoEm": "2026-09-21T18:12:47.087Z",
+ "total": 21,
+ "totalPracas": 30,
+ "primeiraData": "2026-09-21",
  "ultimaData": "2026-10-29",
  "lotes": [
-  {
-   "id": 1822,
-   "titulo": "Apartamento 80m² – Araxá/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1822",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/28de9d0c4b3c621660cd650459078848.jpg",
-   "tipo": "Apartamento",
-   "cidade": "Araxá",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "VERT Companhia Securitizadora",
-   "situacao": null,
-   "desconto": "13%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 349.175,08",
-   "visitas": 1794,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-15",
-     "dataBr": "15/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 402.114,37",
-     "encerrada": true
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-21",
-     "dataBr": "21/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 349.175,08",
-     "encerrada": false
-    }
-   ]
-  },
   {
    "id": 1811,
    "titulo": "Terreno 329m² Muriaé/MG",
@@ -56,7 +20,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1340,
+   "visitas": 1484,
    "pracas": [
     {
      "ordem": 1,
@@ -83,7 +47,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1527,
+   "visitas": 1661,
    "pracas": [
     {
      "ordem": 1,
@@ -110,7 +74,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1520,
+   "visitas": 1661,
    "pracas": [
     {
      "ordem": 1,
@@ -119,6 +83,42 @@
      "dataBr": "05/10/2026",
      "hora": "14:00",
      "valor": "R$ 90.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1827,
+   "titulo": "Apartamento 159m² – São Caetano do Sul/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1827",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/8661defe959f688d8cfce90f80537745.jpg",
+   "tipo": "Apartamento",
+   "cidade": "São Caetano do Sul",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "A.F.",
+   "situacao": null,
+   "desconto": "41%",
+   "descontoTexto": "abaixo na 2ª praça",
+   "precoDestaque": "R$ 1.339.742,82",
+   "visitas": 1510,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "1ª praça",
+     "data": "2026-09-21",
+     "dataBr": "21/09/2026",
+     "hora": "14:00",
+     "valor": "R$ 1.339.742,82",
+     "encerrada": false
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2ª praça",
+     "data": "2026-10-06",
+     "dataBr": "06/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 792.084,68",
      "encerrada": false
     }
    ]
@@ -137,7 +137,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1322,
+   "visitas": 1429,
    "pracas": [
     {
      "ordem": 1,
@@ -164,7 +164,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 1003,
+   "visitas": 1133,
    "pracas": [
     {
      "ordem": 1,
@@ -191,7 +191,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 199,
+   "visitas": 315,
    "pracas": [
     {
      "ordem": 1,
@@ -218,7 +218,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 338,
+   "visitas": 459,
    "pracas": [
     {
      "ordem": 1,
@@ -245,7 +245,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 603,
+   "visitas": 817,
    "pracas": [
     {
      "ordem": 1,
@@ -272,7 +272,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.230.000,00",
-   "visitas": 29,
+   "visitas": 149,
    "pracas": [
     {
      "ordem": 1,
@@ -299,7 +299,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 107,
+   "visitas": 207,
    "pracas": [
     {
      "ordem": 1,
@@ -326,7 +326,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 361,
+   "visitas": 561,
    "pracas": [
     {
      "ordem": 1,
@@ -353,7 +353,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 487,
+   "visitas": 681,
    "pracas": [
     {
      "ordem": 1,
@@ -380,7 +380,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 1193,
+   "visitas": 1329,
    "pracas": [
     {
      "ordem": 1,
@@ -416,7 +416,7 @@
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 1742,
+   "visitas": 2014,
    "pracas": [
     {
      "ordem": 1,
@@ -452,7 +452,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 429.844,00",
-   "visitas": 1089,
+   "visitas": 1196,
    "pracas": [
     {
      "ordem": 1,
@@ -488,7 +488,7 @@
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 114.708,02",
-   "visitas": 1297,
+   "visitas": 1424,
    "pracas": [
     {
      "ordem": 1,
@@ -524,7 +524,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1451,
+   "visitas": 1566,
    "pracas": [
     {
      "ordem": 1,
@@ -560,7 +560,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 1104,
+   "visitas": 1340,
    "pracas": [
     {
      "ordem": 1,
@@ -583,42 +583,6 @@
    ]
   },
   {
-   "id": 1827,
-   "titulo": "Apartamento 159m² – São Caetano do Sul/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1827",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/8661defe959f688d8cfce90f80537745.jpg",
-   "tipo": "Apartamento",
-   "cidade": "São Caetano do Sul",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "A.F.",
-   "situacao": null,
-   "desconto": "41%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 1.339.742,82",
-   "visitas": 1222,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-21",
-     "dataBr": "21/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 1.339.742,82",
-     "encerrada": false
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-10-06",
-     "dataBr": "06/10/2026",
-     "hora": "14:00",
-     "valor": "R$ 792.084,68",
-     "encerrada": false
-    }
-   ]
-  },
-  {
    "id": 1821,
    "titulo": "Casa 393m² – Senador Canedo/GO",
    "url": "https://leiloariasmart.com.br/imovel/1821",
@@ -632,7 +596,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 1539,
+   "visitas": 1738,
    "pracas": [
     {
      "ordem": 1,
@@ -668,7 +632,7 @@
    "desconto": "-7%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 100.965,53",
-   "visitas": 69,
+   "visitas": 169,
    "pracas": [
     {
      "ordem": 1,
