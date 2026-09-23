@@ -1,10 +1,10 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-22T20:11:41.800Z",
- "total": 22,
- "totalPracas": 32,
+ "atualizadoEm": "2026-09-23T16:58:07.724Z",
+ "total": 24,
+ "totalPracas": 35,
  "primeiraData": "2026-09-21",
- "ultimaData": "2026-10-29",
+ "ultimaData": "2026-11-05",
  "lotes": [
   {
    "id": 1816,
@@ -19,8 +19,8 @@
    "situacao": null,
    "desconto": "53%",
    "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 1.150.966,14",
-   "visitas": 2158,
+   "precoDestaque": "R$ 543.578,29",
+   "visitas": 2262,
    "pracas": [
     {
      "ordem": 1,
@@ -29,7 +29,7 @@
      "dataBr": "22/09/2026",
      "hora": "14:00",
      "valor": "R$ 1.150.966,14",
-     "encerrada": false
+     "encerrada": true
     },
     {
      "ordem": 2,
@@ -55,8 +55,8 @@
    "situacao": "Desocupado",
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 429.844,00",
-   "visitas": 1251,
+   "precoDestaque": "R$ 423.150,16",
+   "visitas": 1318,
    "pracas": [
     {
      "ordem": 1,
@@ -65,7 +65,7 @@
      "dataBr": "22/09/2026",
      "hora": "14:00",
      "valor": "R$ 429.844,00",
-     "encerrada": false
+     "encerrada": true
     },
     {
      "ordem": 2,
@@ -92,7 +92,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1712,
+   "visitas": 1772,
    "pracas": [
     {
      "ordem": 1,
@@ -119,7 +119,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1711,
+   "visitas": 1768,
    "pracas": [
     {
      "ordem": 1,
@@ -146,7 +146,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 792.084,68",
-   "visitas": 1618,
+   "visitas": 1704,
    "pracas": [
     {
      "ordem": 1,
@@ -182,7 +182,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1477,
+   "visitas": 1540,
    "pracas": [
     {
      "ordem": 1,
@@ -209,7 +209,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 1193,
+   "visitas": 1270,
    "pracas": [
     {
      "ordem": 1,
@@ -236,7 +236,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 380,
+   "visitas": 444,
    "pracas": [
     {
      "ordem": 1,
@@ -263,7 +263,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 517,
+   "visitas": 578,
    "pracas": [
     {
      "ordem": 1,
@@ -290,7 +290,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 898,
+   "visitas": 968,
    "pracas": [
     {
      "ordem": 1,
@@ -317,7 +317,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.230.000,00",
-   "visitas": 203,
+   "visitas": 264,
    "pracas": [
     {
      "ordem": 1,
@@ -344,7 +344,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 258,
+   "visitas": 318,
    "pracas": [
     {
      "ordem": 1,
@@ -371,7 +371,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 661,
+   "visitas": 730,
    "pracas": [
     {
      "ordem": 1,
@@ -398,7 +398,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 17,
+   "visitas": 80,
    "pracas": [
     {
      "ordem": 1,
@@ -425,7 +425,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 757,
+   "visitas": 827,
    "pracas": [
     {
      "ordem": 1,
@@ -434,6 +434,33 @@
      "dataBr": "29/10/2026",
      "hora": "14:00",
      "valor": "R$ 236.239,60",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1841,
+   "titulo": "Terreno 329m² Muriaé/MG",
+   "url": "https://leiloariasmart.com.br/imovel/1841",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/59019c19ff458b35842af0c8cf52f6ca.png",
+   "tipo": "Terreno",
+   "cidade": "Muriaé",
+   "uf": "MG",
+   "modalidade": "Extrajudicial",
+   "comitente": "Cresol Rosário de Limeira",
+   "situacao": "Desocupado",
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 80.000,00",
+   "visitas": 13,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-05",
+     "dataBr": "05/11/2026",
+     "hora": "14:00",
+     "valor": "R$ 80.000,00",
      "encerrada": false
     }
    ]
@@ -452,7 +479,7 @@
    "desconto": "35%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 1386,
+   "visitas": 1453,
    "pracas": [
     {
      "ordem": 1,
@@ -488,7 +515,7 @@
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 114.708,02",
-   "visitas": 1471,
+   "visitas": 1529,
    "pracas": [
     {
      "ordem": 1,
@@ -524,7 +551,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1611,
+   "visitas": 1662,
    "pracas": [
     {
      "ordem": 1,
@@ -560,7 +587,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 469.993,59",
-   "visitas": 1460,
+   "visitas": 1538,
    "pracas": [
     {
      "ordem": 1,
@@ -596,7 +623,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 3.905.915,92",
-   "visitas": 12,
+   "visitas": 94,
    "pracas": [
     {
      "ordem": 1,
@@ -619,6 +646,42 @@
    ]
   },
   {
+   "id": 1833,
+   "titulo": "Apartamento 46m² – São Paulo/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1833",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/edd861107a9cab73eb6a92b15f0cb5ec.jpg",
+   "tipo": "Apartamento",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "VERT Companhia Securitizadora",
+   "situacao": null,
+   "desconto": "16%",
+   "descontoTexto": "abaixo na 2ª praça",
+   "precoDestaque": "R$ 417.621,52",
+   "visitas": 27,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "1ª praça",
+     "data": "2026-10-05",
+     "dataBr": "05/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 417.621,52",
+     "encerrada": false
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2ª praça",
+     "data": "2026-10-08",
+     "dataBr": "08/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 350.864,87",
+     "encerrada": false
+    }
+   ]
+  },
+  {
    "id": 1821,
    "titulo": "Casa 393m² – Senador Canedo/GO",
    "url": "https://leiloariasmart.com.br/imovel/1821",
@@ -632,7 +695,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 1819,
+   "visitas": 1885,
    "pracas": [
     {
      "ordem": 1,
@@ -668,7 +731,7 @@
    "desconto": "-7%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 100.965,53",
-   "visitas": 217,
+   "visitas": 271,
    "pracas": [
     {
      "ordem": 1,
