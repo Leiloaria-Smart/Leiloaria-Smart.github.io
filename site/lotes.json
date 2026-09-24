@@ -1,119 +1,11 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-23T20:21:56.214Z",
- "total": 25,
- "totalPracas": 37,
+ "atualizadoEm": "2026-09-24T17:10:57.842Z",
+ "total": 22,
+ "totalPracas": 31,
  "primeiraData": "2026-09-21",
  "ultimaData": "2026-11-05",
  "lotes": [
-  {
-   "id": 1823,
-   "titulo": "Apartamento 118m² – Perdizes, São Paulo/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1823",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/57b7d1083443deda46b6f1f81be5f0d2.jpg",
-   "tipo": "Apartamento",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "NANICORP",
-   "situacao": "Desocupado",
-   "desconto": "35%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 1.513.000,00",
-   "visitas": 1469,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-23",
-     "dataBr": "23/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 1.513.000,00",
-     "encerrada": false
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-24",
-     "dataBr": "24/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 983.450,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1816,
-   "titulo": "Casa 395m² – Barra Mansa/RJ",
-   "url": "https://leiloariasmart.com.br/imovel/1816",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/9fe74567492a61ab568a14d351eeacb6.jpg",
-   "tipo": "Casa",
-   "cidade": "Mansa",
-   "uf": "RJ",
-   "modalidade": "Extrajudicial",
-   "comitente": "VERT Companhia Securitizadora",
-   "situacao": null,
-   "desconto": "53%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 543.578,29",
-   "visitas": 2281,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-22",
-     "dataBr": "22/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 1.150.966,14",
-     "encerrada": true
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-24",
-     "dataBr": "24/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 543.578,29",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1819,
-   "titulo": "Terreno 1.000m² – Limeira/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1819",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/c8caaf20013c1fc2d8ed8bfb1affa802.jpeg",
-   "tipo": "Terreno",
-   "cidade": "Limeira",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "Anagro Agropecuária Ltda",
-   "situacao": "Desocupado",
-   "desconto": "2%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 423.150,16",
-   "visitas": 1325,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-22",
-     "dataBr": "22/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 429.844,00",
-     "encerrada": true
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-24",
-     "dataBr": "24/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 423.150,16",
-     "encerrada": false
-    }
-   ]
-  },
   {
    "id": 1814,
    "titulo": "Lote de Terreno 276m² – Matão/SP",
@@ -127,8 +19,8 @@
    "situacao": "Desocupado",
    "desconto": "-11%",
    "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 114.708,02",
-   "visitas": 1541,
+   "precoDestaque": "R$ 127.834,49",
+   "visitas": 1595,
    "pracas": [
     {
      "ordem": 1,
@@ -137,7 +29,7 @@
      "dataBr": "23/09/2026",
      "hora": "14:00",
      "valor": "R$ 114.708,02",
-     "encerrada": false
+     "encerrada": true
     },
     {
      "ordem": 2,
@@ -163,8 +55,8 @@
    "situacao": null,
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 469.993,59",
-   "visitas": 1579,
+   "precoDestaque": "R$ 276.124,46",
+   "visitas": 1645,
    "pracas": [
     {
      "ordem": 1,
@@ -173,7 +65,7 @@
      "dataBr": "23/09/2026",
      "hora": "14:00",
      "valor": "R$ 469.993,59",
-     "encerrada": false
+     "encerrada": true
     },
     {
      "ordem": 2,
@@ -200,7 +92,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1778,
+   "visitas": 1823,
    "pracas": [
     {
      "ordem": 1,
@@ -227,7 +119,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1773,
+   "visitas": 1822,
    "pracas": [
     {
      "ordem": 1,
@@ -254,7 +146,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 792.084,68",
-   "visitas": 1747,
+   "visitas": 1855,
    "pracas": [
     {
      "ordem": 1,
@@ -290,7 +182,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1546,
+   "visitas": 1594,
    "pracas": [
     {
      "ordem": 1,
@@ -317,7 +209,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 1317,
+   "visitas": 1367,
    "pracas": [
     {
      "ordem": 1,
@@ -344,7 +236,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 449,
+   "visitas": 492,
    "pracas": [
     {
      "ordem": 1,
@@ -371,7 +263,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 584,
+   "visitas": 631,
    "pracas": [
     {
      "ordem": 1,
@@ -398,7 +290,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 974,
+   "visitas": 1037,
    "pracas": [
     {
      "ordem": 1,
@@ -425,7 +317,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.230.000,00",
-   "visitas": 271,
+   "visitas": 314,
    "pracas": [
     {
      "ordem": 1,
@@ -452,7 +344,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 324,
+   "visitas": 372,
    "pracas": [
     {
      "ordem": 1,
@@ -479,7 +371,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 755,
+   "visitas": 836,
    "pracas": [
     {
      "ordem": 1,
@@ -506,7 +398,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 323,
+   "visitas": 570,
    "pracas": [
     {
      "ordem": 1,
@@ -533,7 +425,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 838,
+   "visitas": 898,
    "pracas": [
     {
      "ordem": 1,
@@ -560,7 +452,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 22,
+   "visitas": 67,
    "pracas": [
     {
      "ordem": 1,
@@ -587,7 +479,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1668,
+   "visitas": 1714,
    "pracas": [
     {
      "ordem": 1,
@@ -623,7 +515,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 3.905.915,92",
-   "visitas": 264,
+   "visitas": 365,
    "pracas": [
     {
      "ordem": 1,
@@ -659,7 +551,7 @@
    "desconto": "16%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 417.621,52",
-   "visitas": 37,
+   "visitas": 86,
    "pracas": [
     {
      "ordem": 1,
@@ -682,42 +574,6 @@
    ]
   },
   {
-   "id": 1842,
-   "titulo": "Apartamento 72m² – Goiânia/GO",
-   "url": "https://leiloariasmart.com.br/imovel/1842",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/b1cf3155d153c73716bc7cd5e4e8b513.jpg",
-   "tipo": "Apartamento",
-   "cidade": "Goiânia",
-   "uf": "GO",
-   "modalidade": "Extrajudicial",
-   "comitente": "FIDC Crediblue",
-   "situacao": null,
-   "desconto": "24%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 416.386,75",
-   "visitas": 14,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-10-06",
-     "dataBr": "06/10/2026",
-     "hora": "14:00",
-     "valor": "R$ 416.386,75",
-     "encerrada": false
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-10-08",
-     "dataBr": "08/10/2026",
-     "hora": "14:00",
-     "valor": "R$ 316.231,40",
-     "encerrada": false
-    }
-   ]
-  },
-  {
    "id": 1821,
    "titulo": "Casa 393m² – Senador Canedo/GO",
    "url": "https://leiloariasmart.com.br/imovel/1821",
@@ -731,7 +587,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 1897,
+   "visitas": 1963,
    "pracas": [
     {
      "ordem": 1,
@@ -767,7 +623,7 @@
    "desconto": "-7%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 100.965,53",
-   "visitas": 277,
+   "visitas": 323,
    "pracas": [
     {
      "ordem": 1,
@@ -785,6 +641,42 @@
      "dataBr": "23/10/2026",
      "hora": "14:00",
      "valor": "R$ 108.031,46",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1842,
+   "titulo": "Apartamento 72m² – Goiânia/GO",
+   "url": "https://leiloariasmart.com.br/imovel/1842",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/b1cf3155d153c73716bc7cd5e4e8b513.jpg",
+   "tipo": "Apartamento",
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "modalidade": "Extrajudicial",
+   "comitente": "FIDC Crediblue",
+   "situacao": null,
+   "desconto": "24%",
+   "descontoTexto": "abaixo na 2ª praça",
+   "precoDestaque": "R$ 416.386,75",
+   "visitas": 83,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "1ª praça",
+     "data": "2026-10-13",
+     "dataBr": "13/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 416.386,75",
+     "encerrada": false
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2ª praça",
+     "data": "2026-10-27",
+     "dataBr": "27/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 316.231,40",
      "encerrada": false
     }
    ]
