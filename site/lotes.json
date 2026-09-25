@@ -1,47 +1,11 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-24T17:10:57.842Z",
+ "atualizadoEm": "2026-09-25T17:11:16.588Z",
  "total": 22,
  "totalPracas": 31,
  "primeiraData": "2026-09-21",
  "ultimaData": "2026-11-05",
  "lotes": [
-  {
-   "id": 1814,
-   "titulo": "Lote de Terreno 276m² – Matão/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1814",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/c74a6a4dc37afe7478354e3ff4470025.jpeg",
-   "tipo": "Terreno",
-   "cidade": "Matão",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "JARDIM EUGENIA EMP. IMOBILIARIO LTDA",
-   "situacao": "Desocupado",
-   "desconto": "-11%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 127.834,49",
-   "visitas": 1595,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-23",
-     "dataBr": "23/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 114.708,02",
-     "encerrada": true
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-25",
-     "dataBr": "25/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 127.834,49",
-     "encerrada": false
-    }
-   ]
-  },
   {
    "id": 1828,
    "titulo": "Casa 230m² – Mogi Guaçu/SP",
@@ -56,7 +20,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 276.124,46",
-   "visitas": 1645,
+   "visitas": 1734,
    "pracas": [
     {
      "ordem": 1,
@@ -92,7 +56,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1823,
+   "visitas": 1880,
    "pracas": [
     {
      "ordem": 1,
@@ -119,7 +83,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1822,
+   "visitas": 1873,
    "pracas": [
     {
      "ordem": 1,
@@ -146,7 +110,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 792.084,68",
-   "visitas": 1855,
+   "visitas": 1969,
    "pracas": [
     {
      "ordem": 1,
@@ -182,7 +146,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1594,
+   "visitas": 1678,
    "pracas": [
     {
      "ordem": 1,
@@ -209,7 +173,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 1367,
+   "visitas": 1422,
    "pracas": [
     {
      "ordem": 1,
@@ -236,7 +200,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 492,
+   "visitas": 548,
    "pracas": [
     {
      "ordem": 1,
@@ -263,7 +227,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 631,
+   "visitas": 690,
    "pracas": [
     {
      "ordem": 1,
@@ -290,7 +254,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 1037,
+   "visitas": 1111,
    "pracas": [
     {
      "ordem": 1,
@@ -317,7 +281,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.230.000,00",
-   "visitas": 314,
+   "visitas": 365,
    "pracas": [
     {
      "ordem": 1,
@@ -344,7 +308,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 372,
+   "visitas": 418,
    "pracas": [
     {
      "ordem": 1,
@@ -371,7 +335,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 836,
+   "visitas": 892,
    "pracas": [
     {
      "ordem": 1,
@@ -398,7 +362,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 570,
+   "visitas": 669,
    "pracas": [
     {
      "ordem": 1,
@@ -425,7 +389,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 898,
+   "visitas": 976,
    "pracas": [
     {
      "ordem": 1,
@@ -452,7 +416,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 67,
+   "visitas": 273,
    "pracas": [
     {
      "ordem": 1,
@@ -479,7 +443,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1714,
+   "visitas": 1765,
    "pracas": [
     {
      "ordem": 1,
@@ -515,7 +479,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 3.905.915,92",
-   "visitas": 365,
+   "visitas": 465,
    "pracas": [
     {
      "ordem": 1,
@@ -551,7 +515,7 @@
    "desconto": "16%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 417.621,52",
-   "visitas": 86,
+   "visitas": 142,
    "pracas": [
     {
      "ordem": 1,
@@ -587,7 +551,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 1963,
+   "visitas": 2035,
    "pracas": [
     {
      "ordem": 1,
@@ -610,6 +574,42 @@
    ]
   },
   {
+   "id": 1843,
+   "titulo": "Casa 61 m² – Toledo/PR",
+   "url": "https://leiloariasmart.com.br/imovel/1843",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/7acb23e80c6aacaf3e3a4972298f56d3.jpg",
+   "tipo": "Casa",
+   "cidade": "Toledo",
+   "uf": "PR",
+   "modalidade": "Extrajudicial",
+   "comitente": "VERT Companhia Securitizadora",
+   "situacao": null,
+   "desconto": "49%",
+   "descontoTexto": "abaixo na 2ª praça",
+   "precoDestaque": "R$ 1.146.403,49",
+   "visitas": 26,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "1ª praça",
+     "data": "2026-10-16",
+     "dataBr": "16/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 1.146.403,49",
+     "encerrada": false
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2ª praça",
+     "data": "2026-10-23",
+     "dataBr": "23/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 583.939,52",
+     "encerrada": false
+    }
+   ]
+  },
+  {
    "id": 1837,
    "titulo": "Lote Residencial 275m² – Matão/SP",
    "url": "https://leiloariasmart.com.br/imovel/1837",
@@ -623,7 +623,7 @@
    "desconto": "-7%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 100.965,53",
-   "visitas": 323,
+   "visitas": 372,
    "pracas": [
     {
      "ordem": 1,
@@ -659,7 +659,7 @@
    "desconto": "24%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 416.386,75",
-   "visitas": 83,
+   "visitas": 154,
    "pracas": [
     {
      "ordem": 1,
