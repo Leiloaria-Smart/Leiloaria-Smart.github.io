@@ -1,8 +1,8 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-25T17:11:16.588Z",
- "total": 22,
- "totalPracas": 31,
+ "atualizadoEm": "2026-09-25T20:31:02.310Z",
+ "total": 23,
+ "totalPracas": 33,
  "primeiraData": "2026-09-21",
  "ultimaData": "2026-11-05",
  "lotes": [
@@ -20,7 +20,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 276.124,46",
-   "visitas": 1734,
+   "visitas": 1777,
    "pracas": [
     {
      "ordem": 1,
@@ -56,7 +56,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 1880,
+   "visitas": 1901,
    "pracas": [
     {
      "ordem": 1,
@@ -83,7 +83,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 1873,
+   "visitas": 1877,
    "pracas": [
     {
      "ordem": 1,
@@ -110,7 +110,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 792.084,68",
-   "visitas": 1969,
+   "visitas": 1983,
    "pracas": [
     {
      "ordem": 1,
@@ -146,7 +146,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1678,
+   "visitas": 1681,
    "pracas": [
     {
      "ordem": 1,
@@ -173,7 +173,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 1422,
+   "visitas": 1465,
    "pracas": [
     {
      "ordem": 1,
@@ -200,7 +200,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 548,
+   "visitas": 550,
    "pracas": [
     {
      "ordem": 1,
@@ -227,7 +227,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 690,
+   "visitas": 694,
    "pracas": [
     {
      "ordem": 1,
@@ -254,7 +254,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 1111,
+   "visitas": 1138,
    "pracas": [
     {
      "ordem": 1,
@@ -281,7 +281,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.230.000,00",
-   "visitas": 365,
+   "visitas": 369,
    "pracas": [
     {
      "ordem": 1,
@@ -308,7 +308,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 418,
+   "visitas": 421,
    "pracas": [
     {
      "ordem": 1,
@@ -335,7 +335,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 892,
+   "visitas": 896,
    "pracas": [
     {
      "ordem": 1,
@@ -362,7 +362,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 669,
+   "visitas": 672,
    "pracas": [
     {
      "ordem": 1,
@@ -389,7 +389,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 976,
+   "visitas": 983,
    "pracas": [
     {
      "ordem": 1,
@@ -416,7 +416,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 273,
+   "visitas": 338,
    "pracas": [
     {
      "ordem": 1,
@@ -443,7 +443,7 @@
    "desconto": "2%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 156.720,00",
-   "visitas": 1765,
+   "visitas": 1770,
    "pracas": [
     {
      "ordem": 1,
@@ -479,7 +479,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 3.905.915,92",
-   "visitas": 465,
+   "visitas": 470,
    "pracas": [
     {
      "ordem": 1,
@@ -515,7 +515,7 @@
    "desconto": "16%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 417.621,52",
-   "visitas": 142,
+   "visitas": 146,
    "pracas": [
     {
      "ordem": 1,
@@ -538,6 +538,42 @@
    ]
   },
   {
+   "id": 1844,
+   "titulo": "Casa 82m² – Miguel Pereira/RJ",
+   "url": "https://leiloariasmart.com.br/imovel/1844",
+   "imagem": null,
+   "tipo": "Casa",
+   "cidade": "Miguel Pereira",
+   "uf": "RJ",
+   "modalidade": "Extrajudicial",
+   "comitente": "VERT Companhia Securitizadora",
+   "situacao": null,
+   "desconto": "30%",
+   "descontoTexto": "abaixo na 2ª praça",
+   "precoDestaque": "R$ 307.902,03",
+   "visitas": 17,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "1ª praça",
+     "data": "2026-10-09",
+     "dataBr": "09/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 307.902,03",
+     "encerrada": false
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2ª praça",
+     "data": "2026-10-16",
+     "dataBr": "16/10/2026",
+     "hora": "14:00",
+     "valor": "R$ 216.330,69",
+     "encerrada": false
+    }
+   ]
+  },
+  {
    "id": 1821,
    "titulo": "Casa 393m² – Senador Canedo/GO",
    "url": "https://leiloariasmart.com.br/imovel/1821",
@@ -551,7 +587,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 2035,
+   "visitas": 2041,
    "pracas": [
     {
      "ordem": 1,
@@ -587,7 +623,7 @@
    "desconto": "49%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.146.403,49",
-   "visitas": 26,
+   "visitas": 33,
    "pracas": [
     {
      "ordem": 1,
@@ -623,7 +659,7 @@
    "desconto": "-7%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 100.965,53",
-   "visitas": 372,
+   "visitas": 376,
    "pracas": [
     {
      "ordem": 1,
@@ -659,7 +695,7 @@
    "desconto": "24%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 416.386,75",
-   "visitas": 154,
+   "visitas": 160,
    "pracas": [
     {
      "ordem": 1,
