@@ -1,47 +1,11 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-09-28T19:40:43.085Z",
- "total": 53,
- "totalPracas": 63,
+ "atualizadoEm": "2026-09-29T18:04:57.881Z",
+ "total": 52,
+ "totalPracas": 61,
  "primeiraData": "2026-09-21",
  "ultimaData": "2026-11-10",
  "lotes": [
-  {
-   "id": 1810,
-   "titulo": "Terreno 150m² – Americana/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1810",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/e6bc84f8f06a181251f2b130916723cf.jpg",
-   "tipo": "Terreno",
-   "cidade": "Americana",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "LBO EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
-   "situacao": "Desocupado",
-   "desconto": "2%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 156.720,00",
-   "visitas": 1915,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-09-28",
-     "dataBr": "28/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 156.720,00",
-     "encerrada": false
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-09-29",
-     "dataBr": "29/09/2026",
-     "hora": "14:00",
-     "valor": "R$ 153.460,21",
-     "encerrada": false
-    }
-   ]
-  },
   {
    "id": 1828,
    "titulo": "Casa 230m² – Mogi Guaçu/SP",
@@ -56,7 +20,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 276.124,46",
-   "visitas": 2029,
+   "visitas": 2084,
    "pracas": [
     {
      "ordem": 1,
@@ -92,7 +56,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 2069,
+   "visitas": 2118,
    "pracas": [
     {
      "ordem": 1,
@@ -119,7 +83,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 2105,
+   "visitas": 2256,
    "pracas": [
     {
      "ordem": 1,
@@ -146,7 +110,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 792.084,68",
-   "visitas": 2348,
+   "visitas": 2405,
    "pracas": [
     {
      "ordem": 1,
@@ -182,7 +146,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 1835,
+   "visitas": 1939,
    "pracas": [
     {
      "ordem": 1,
@@ -209,7 +173,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 1861,
+   "visitas": 1945,
    "pracas": [
     {
      "ordem": 1,
@@ -236,7 +200,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 686,
+   "visitas": 733,
    "pracas": [
     {
      "ordem": 1,
@@ -263,7 +227,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 840,
+   "visitas": 880,
    "pracas": [
     {
      "ordem": 1,
@@ -290,7 +254,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 1309,
+   "visitas": 1359,
    "pracas": [
     {
      "ordem": 1,
@@ -317,7 +281,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.230.000,00",
-   "visitas": 499,
+   "visitas": 541,
    "pracas": [
     {
      "ordem": 1,
@@ -344,7 +308,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 546,
+   "visitas": 587,
    "pracas": [
     {
      "ordem": 1,
@@ -371,7 +335,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 1049,
+   "visitas": 1094,
    "pracas": [
     {
      "ordem": 1,
@@ -398,7 +362,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 858,
+   "visitas": 924,
    "pracas": [
     {
      "ordem": 1,
@@ -425,7 +389,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 1148,
+   "visitas": 1213,
    "pracas": [
     {
      "ordem": 1,
@@ -452,7 +416,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 707,
+   "visitas": 775,
    "pracas": [
     {
      "ordem": 1,
@@ -479,7 +443,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.450.000,00",
-   "visitas": 1,
+   "visitas": 72,
    "pracas": [
     {
      "ordem": 1,
@@ -506,7 +470,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 135.000,00",
-   "visitas": 3,
+   "visitas": 69,
    "pracas": [
     {
      "ordem": 1,
@@ -533,7 +497,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 750.000,00",
-   "visitas": 0,
+   "visitas": 66,
    "pracas": [
     {
      "ordem": 1,
@@ -560,7 +524,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 95.590,24",
-   "visitas": 0,
+   "visitas": 66,
    "pracas": [
     {
      "ordem": 1,
@@ -587,7 +551,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 95.590,24",
-   "visitas": 0,
+   "visitas": 67,
    "pracas": [
     {
      "ordem": 1,
@@ -614,7 +578,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 394.018,31",
-   "visitas": 0,
+   "visitas": 67,
    "pracas": [
     {
      "ordem": 1,
@@ -641,7 +605,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 76.938,49",
-   "visitas": 0,
+   "visitas": 66,
    "pracas": [
     {
      "ordem": 1,
@@ -668,7 +632,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 465.700,00",
-   "visitas": 0,
+   "visitas": 66,
    "pracas": [
     {
      "ordem": 1,
@@ -695,7 +659,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 378.000,00",
-   "visitas": 0,
+   "visitas": 62,
    "pracas": [
     {
      "ordem": 1,
@@ -722,7 +686,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 110.000,00",
-   "visitas": 0,
+   "visitas": 66,
    "pracas": [
     {
      "ordem": 1,
@@ -749,7 +713,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 69.000,00",
-   "visitas": 0,
+   "visitas": 65,
    "pracas": [
     {
      "ordem": 1,
@@ -776,7 +740,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 60.000,00",
-   "visitas": 0,
+   "visitas": 66,
    "pracas": [
     {
      "ordem": 1,
@@ -803,7 +767,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 73.000,00",
-   "visitas": 0,
+   "visitas": 64,
    "pracas": [
     {
      "ordem": 1,
@@ -830,7 +794,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 105.000,00",
-   "visitas": 0,
+   "visitas": 65,
    "pracas": [
     {
      "ordem": 1,
@@ -857,7 +821,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 74.087,06",
-   "visitas": 0,
+   "visitas": 64,
    "pracas": [
     {
      "ordem": 1,
@@ -884,7 +848,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 0,
+   "visitas": 67,
    "pracas": [
     {
      "ordem": 1,
@@ -911,7 +875,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 0,
+   "visitas": 66,
    "pracas": [
     {
      "ordem": 1,
@@ -938,7 +902,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 0,
+   "visitas": 62,
    "pracas": [
     {
      "ordem": 1,
@@ -965,7 +929,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 0,
+   "visitas": 60,
    "pracas": [
     {
      "ordem": 1,
@@ -992,7 +956,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 0,
+   "visitas": 60,
    "pracas": [
     {
      "ordem": 1,
@@ -1019,7 +983,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 0,
+   "visitas": 59,
    "pracas": [
     {
      "ordem": 1,
@@ -1046,7 +1010,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 0,
+   "visitas": 60,
    "pracas": [
     {
      "ordem": 1,
@@ -1073,7 +1037,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 434.000,00",
-   "visitas": 0,
+   "visitas": 60,
    "pracas": [
     {
      "ordem": 1,
@@ -1100,7 +1064,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 269.370,00",
-   "visitas": 0,
+   "visitas": 58,
    "pracas": [
     {
      "ordem": 1,
@@ -1127,7 +1091,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 333.528,35",
-   "visitas": 0,
+   "visitas": 69,
    "pracas": [
     {
      "ordem": 1,
@@ -1154,7 +1118,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 333.528,37",
-   "visitas": 0,
+   "visitas": 62,
    "pracas": [
     {
      "ordem": 1,
@@ -1181,7 +1145,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 102.472,68",
-   "visitas": 0,
+   "visitas": 62,
    "pracas": [
     {
      "ordem": 1,
@@ -1208,7 +1172,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 669.000,00",
-   "visitas": 0,
+   "visitas": 64,
    "pracas": [
     {
      "ordem": 1,
@@ -1225,7 +1189,7 @@
    "id": 1870,
    "titulo": "Terreno rural de 72.600m² — Boa Esperança/MG",
    "url": "https://leiloariasmart.com.br/imovel/1870",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/fc634709e794f58024cfe2a54193cd0b.jpeg",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/b57cf26361b9373b2293d78fc34c4912.jpg",
    "tipo": "Terreno",
    "cidade": "Boa Esperança",
    "uf": "MG",
@@ -1235,7 +1199,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.894.900,00",
-   "visitas": 0,
+   "visitas": 68,
    "pracas": [
     {
      "ordem": 1,
@@ -1252,7 +1216,7 @@
    "id": 1871,
    "titulo": "Terreno rural de 48.520m² — Boa Esperança/MG",
    "url": "https://leiloariasmart.com.br/imovel/1871",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/631920dd5d33538d485b960cb294c011.jpeg",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/2b03f872647d7e7cfa7cfc32b0dca0bb.jpg",
    "tipo": "Terreno",
    "cidade": "Boa Esperança",
    "uf": "MG",
@@ -1262,7 +1226,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 5.000.000,00",
-   "visitas": 0,
+   "visitas": 66,
    "pracas": [
     {
      "ordem": 1,
@@ -1289,7 +1253,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 3.905.915,92",
-   "visitas": 658,
+   "visitas": 708,
    "pracas": [
     {
      "ordem": 1,
@@ -1325,7 +1289,7 @@
    "desconto": "16%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 417.621,52",
-   "visitas": 293,
+   "visitas": 340,
    "pracas": [
     {
      "ordem": 1,
@@ -1361,7 +1325,7 @@
    "desconto": "30%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 307.902,03",
-   "visitas": 310,
+   "visitas": 516,
    "pracas": [
     {
      "ordem": 1,
@@ -1397,7 +1361,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 2280,
+   "visitas": 2330,
    "pracas": [
     {
      "ordem": 1,
@@ -1433,7 +1397,7 @@
    "desconto": "49%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.146.403,49",
-   "visitas": 491,
+   "visitas": 644,
    "pracas": [
     {
      "ordem": 1,
@@ -1469,7 +1433,7 @@
    "desconto": "-7%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 100.965,53",
-   "visitas": 495,
+   "visitas": 533,
    "pracas": [
     {
      "ordem": 1,
@@ -1505,7 +1469,7 @@
    "desconto": "24%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 416.386,75",
-   "visitas": 296,
+   "visitas": 352,
    "pracas": [
     {
      "ordem": 1,
