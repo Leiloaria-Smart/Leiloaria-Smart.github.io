@@ -1,8 +1,8 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-10-01T18:25:23.623Z",
- "total": 53,
- "totalPracas": 63,
+ "atualizadoEm": "2026-10-01T23:12:24.753Z",
+ "total": 52,
+ "totalPracas": 62,
  "primeiraData": "2026-09-21",
  "ultimaData": "2026-11-10",
  "lotes": [
@@ -20,7 +20,7 @@
    "desconto": "21%",
    "descontoTexto": "abaixo da avaliação",
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 2279,
+   "visitas": 2298,
    "pracas": [
     {
      "ordem": 1,
@@ -47,7 +47,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 90.000,00",
-   "visitas": 2495,
+   "visitas": 2518,
    "pracas": [
     {
      "ordem": 1,
@@ -74,7 +74,7 @@
    "desconto": "41%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 792.084,68",
-   "visitas": 2632,
+   "visitas": 2661,
    "pracas": [
     {
      "ordem": 1,
@@ -110,7 +110,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 2176,
+   "visitas": 2208,
    "pracas": [
     {
      "ordem": 1,
@@ -137,7 +137,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 2289,
+   "visitas": 2319,
    "pracas": [
     {
      "ordem": 1,
@@ -164,7 +164,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 866,
+   "visitas": 879,
    "pracas": [
     {
      "ordem": 1,
@@ -191,7 +191,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 1034,
+   "visitas": 1050,
    "pracas": [
     {
      "ordem": 1,
@@ -218,7 +218,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 1549,
+   "visitas": 1572,
    "pracas": [
     {
      "ordem": 1,
@@ -245,7 +245,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.230.000,00",
-   "visitas": 674,
+   "visitas": 688,
    "pracas": [
     {
      "ordem": 1,
@@ -272,7 +272,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 714,
+   "visitas": 728,
    "pracas": [
     {
      "ordem": 1,
@@ -299,7 +299,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 1232,
+   "visitas": 1246,
    "pracas": [
     {
      "ordem": 1,
@@ -326,7 +326,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 1098,
+   "visitas": 1114,
    "pracas": [
     {
      "ordem": 1,
@@ -353,7 +353,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 1397,
+   "visitas": 1415,
    "pracas": [
     {
      "ordem": 1,
@@ -380,7 +380,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 915,
+   "visitas": 928,
    "pracas": [
     {
      "ordem": 1,
@@ -407,7 +407,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.450.000,00",
-   "visitas": 219,
+   "visitas": 237,
    "pracas": [
     {
      "ordem": 1,
@@ -434,7 +434,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 135.000,00",
-   "visitas": 195,
+   "visitas": 212,
    "pracas": [
     {
      "ordem": 1,
@@ -457,11 +457,11 @@
    "uf": "MG",
    "modalidade": "Extrajudicial",
    "comitente": "SICOOB COPERMEC",
-   "situacao": null,
+   "situacao": "Desocupado",
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 750.000,00",
-   "visitas": 194,
+   "visitas": 208,
    "pracas": [
     {
      "ordem": 1,
@@ -488,7 +488,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 95.590,24",
-   "visitas": 199,
+   "visitas": 214,
    "pracas": [
     {
      "ordem": 1,
@@ -515,7 +515,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 95.590,24",
-   "visitas": 194,
+   "visitas": 209,
    "pracas": [
     {
      "ordem": 1,
@@ -542,7 +542,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 394.018,31",
-   "visitas": 194,
+   "visitas": 210,
    "pracas": [
     {
      "ordem": 1,
@@ -551,33 +551,6 @@
      "dataBr": "10/11/2026",
      "hora": "10:50",
      "valor": "R$ 394.018,31",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1854,
-   "titulo": "Terreno de 800m² — Carmópolis de Minas/MG",
-   "url": "https://leiloariasmart.com.br/imovel/1854",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/9b719e9cf65518f980c2cb87dd9c411d.jpg",
-   "tipo": "Terreno",
-   "cidade": "Carmópolis de Minas",
-   "uf": "MG",
-   "modalidade": "Extrajudicial",
-   "comitente": "SICOOB COPERMEC",
-   "situacao": "Desocupado",
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 76.938,49",
-   "visitas": 191,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-11-10",
-     "dataBr": "10/11/2026",
-     "hora": "11:00",
-     "valor": "R$ 76.938,49",
      "encerrada": false
     }
    ]
@@ -596,7 +569,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 465.700,00",
-   "visitas": 192,
+   "visitas": 207,
    "pracas": [
     {
      "ordem": 1,
@@ -623,7 +596,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 378.000,00",
-   "visitas": 187,
+   "visitas": 206,
    "pracas": [
     {
      "ordem": 1,
@@ -650,7 +623,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 110.000,00",
-   "visitas": 192,
+   "visitas": 206,
    "pracas": [
     {
      "ordem": 1,
@@ -677,7 +650,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 69.000,00",
-   "visitas": 193,
+   "visitas": 209,
    "pracas": [
     {
      "ordem": 1,
@@ -704,7 +677,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 60.000,00",
-   "visitas": 205,
+   "visitas": 221,
    "pracas": [
     {
      "ordem": 1,
@@ -731,7 +704,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 73.000,00",
-   "visitas": 191,
+   "visitas": 205,
    "pracas": [
     {
      "ordem": 1,
@@ -758,7 +731,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 105.000,00",
-   "visitas": 187,
+   "visitas": 202,
    "pracas": [
     {
      "ordem": 1,
@@ -785,7 +758,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 74.087,06",
-   "visitas": 186,
+   "visitas": 201,
    "pracas": [
     {
      "ordem": 1,
@@ -812,7 +785,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 193,
+   "visitas": 208,
    "pracas": [
     {
      "ordem": 1,
@@ -839,7 +812,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 191,
+   "visitas": 205,
    "pracas": [
     {
      "ordem": 1,
@@ -866,7 +839,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 190,
+   "visitas": 205,
    "pracas": [
     {
      "ordem": 1,
@@ -893,7 +866,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 185,
+   "visitas": 200,
    "pracas": [
     {
      "ordem": 1,
@@ -920,7 +893,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 184,
+   "visitas": 198,
    "pracas": [
     {
      "ordem": 1,
@@ -947,7 +920,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 184,
+   "visitas": 197,
    "pracas": [
     {
      "ordem": 1,
@@ -974,7 +947,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 185,
+   "visitas": 202,
    "pracas": [
     {
      "ordem": 1,
@@ -1001,7 +974,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 434.000,00",
-   "visitas": 189,
+   "visitas": 204,
    "pracas": [
     {
      "ordem": 1,
@@ -1028,7 +1001,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 269.370,00",
-   "visitas": 180,
+   "visitas": 194,
    "pracas": [
     {
      "ordem": 1,
@@ -1055,7 +1028,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 333.528,35",
-   "visitas": 198,
+   "visitas": 214,
    "pracas": [
     {
      "ordem": 1,
@@ -1082,7 +1055,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 333.528,37",
-   "visitas": 190,
+   "visitas": 203,
    "pracas": [
     {
      "ordem": 1,
@@ -1105,11 +1078,11 @@
    "uf": "MG",
    "modalidade": "Extrajudicial",
    "comitente": "SICOOB COPERMEC",
-   "situacao": null,
+   "situacao": "Desocupado",
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 102.472,68",
-   "visitas": 191,
+   "visitas": 205,
    "pracas": [
     {
      "ordem": 1,
@@ -1136,7 +1109,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 669.000,00",
-   "visitas": 198,
+   "visitas": 212,
    "pracas": [
     {
      "ordem": 1,
@@ -1163,7 +1136,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.894.900,00",
-   "visitas": 192,
+   "visitas": 206,
    "pracas": [
     {
      "ordem": 1,
@@ -1190,7 +1163,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 5.000.000,00",
-   "visitas": 188,
+   "visitas": 204,
    "pracas": [
     {
      "ordem": 1,
@@ -1217,7 +1190,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 3.905.915,92",
-   "visitas": 850,
+   "visitas": 866,
    "pracas": [
     {
      "ordem": 1,
@@ -1253,7 +1226,7 @@
    "desconto": "16%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 417.621,52",
-   "visitas": 492,
+   "visitas": 510,
    "pracas": [
     {
      "ordem": 1,
@@ -1289,7 +1262,7 @@
    "desconto": "30%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 307.902,03",
-   "visitas": 772,
+   "visitas": 802,
    "pracas": [
     {
      "ordem": 1,
@@ -1325,7 +1298,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 2468,
+   "visitas": 2484,
    "pracas": [
     {
      "ordem": 1,
@@ -1361,7 +1334,7 @@
    "desconto": "49%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.146.403,49",
-   "visitas": 879,
+   "visitas": 912,
    "pracas": [
     {
      "ordem": 1,
@@ -1397,7 +1370,7 @@
    "desconto": "-7%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 100.965,53",
-   "visitas": 662,
+   "visitas": 677,
    "pracas": [
     {
      "ordem": 1,
@@ -1433,7 +1406,7 @@
    "desconto": "24%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 416.386,75",
-   "visitas": 501,
+   "visitas": 520,
    "pracas": [
     {
      "ordem": 1,
@@ -1459,7 +1432,7 @@
    "id": 1876,
    "titulo": "Apto 71m² Goiânia/GO",
    "url": "https://leiloariasmart.com.br/imovel/1876",
-   "imagem": null,
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/b6badeda567c4ffc2ba77d2917f964c6.jpg",
    "tipo": "Apartamento",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -1469,7 +1442,7 @@
    "desconto": "19%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 235.699,88",
-   "visitas": 9,
+   "visitas": 44,
    "pracas": [
     {
      "ordem": 1,
@@ -1505,7 +1478,7 @@
    "desconto": "-16%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 410.688,00",
-   "visitas": 123,
+   "visitas": 139,
    "pracas": [
     {
      "ordem": 1,
