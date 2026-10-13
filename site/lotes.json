@@ -1,106 +1,43 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-10-05T20:44:20.802Z",
- "total": 72,
- "totalPracas": 82,
- "primeiraData": "2026-09-21",
- "ultimaData": "2026-11-19",
+ "atualizadoEm": "2026-10-13T13:04:58.988Z",
+ "total": 76,
+ "totalPracas": 83,
+ "primeiraData": "2026-10-09",
+ "ultimaData": "2026-11-30",
  "lotes": [
   {
-   "id": 1827,
-   "titulo": "Apartamento 159m² – São Caetano do Sul/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1827",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/8661defe959f688d8cfce90f80537745.jpg",
-   "tipo": "Apartamento",
-   "cidade": "São Caetano do Sul",
-   "uf": "SP",
+   "id": 1844,
+   "titulo": "Casa 82m² – Miguel Pereira/RJ",
+   "url": "https://leiloariasmart.com.br/imovel/1844",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/1056a60977dd2ee51ab3512a0697b281.jpg",
+   "tipo": "Casa",
+   "cidade": "Miguel Pereira",
+   "uf": "RJ",
    "modalidade": "Extrajudicial",
-   "comitente": "A.F.",
+   "comitente": "VERT Companhia Securitizadora",
    "situacao": null,
-   "desconto": "41%",
+   "desconto": "30%",
    "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 792.084,68",
-   "visitas": 3148,
+   "precoDestaque": "R$ 216.330,69",
+   "visitas": 2326,
    "pracas": [
     {
      "ordem": 1,
      "rotulo": "1ª praça",
-     "data": "2026-09-21",
-     "dataBr": "21/09/2026",
+     "data": "2026-10-09",
+     "dataBr": "09/10/2026",
      "hora": "14:00",
-     "valor": "R$ 1.339.742,82",
+     "valor": "R$ 307.902,03",
      "encerrada": true
     },
     {
      "ordem": 2,
      "rotulo": "2ª praça",
-     "data": "2026-10-06",
-     "dataBr": "06/10/2026",
+     "data": "2026-10-16",
+     "dataBr": "16/10/2026",
      "hora": "14:00",
-     "valor": "R$ 792.084,68",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1820,
-   "titulo": "Sobrado em condomínio 790m² Jundiaí/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1820",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/8d0b6a1f88a979029045b84a3d506640.jpg",
-   "tipo": "Sobrado",
-   "cidade": "Jundiaí",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "VERT Companhia Securitizadora",
-   "situacao": null,
-   "desconto": null,
-   "descontoTexto": null,
-   "precoDestaque": "R$ 2.700.000,00",
-   "visitas": 2715,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "Praça única",
-     "data": "2026-10-08",
-     "dataBr": "08/10/2026",
-     "hora": "14:00",
-     "valor": "R$ 2.700.000,00",
-     "encerrada": false
-    }
-   ]
-  },
-  {
-   "id": 1833,
-   "titulo": "Apartamento 46m² – São Paulo/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1833",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/edd861107a9cab73eb6a92b15f0cb5ec.jpg",
-   "tipo": "Apartamento",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "VERT Companhia Securitizadora",
-   "situacao": null,
-   "desconto": "16%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 417.621,52",
-   "visitas": 824,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-10-05",
-     "dataBr": "05/10/2026",
-     "hora": "14:00",
-     "valor": "R$ 417.621,52",
-     "encerrada": false
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-10-08",
-     "dataBr": "08/10/2026",
-     "hora": "14:00",
-     "valor": "R$ 350.864,87",
+     "valor": "R$ 216.330,69",
      "encerrada": false
     }
    ]
@@ -119,7 +56,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.100.000,00",
-   "visitas": 2908,
+   "visitas": 4019,
    "pracas": [
     {
      "ordem": 1,
@@ -146,7 +83,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 308.824,31",
-   "visitas": 1184,
+   "visitas": 1796,
    "pracas": [
     {
      "ordem": 1,
@@ -173,7 +110,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 249.425,93",
-   "visitas": 1383,
+   "visitas": 2033,
    "pracas": [
     {
      "ordem": 1,
@@ -188,7 +125,7 @@
   },
   {
    "id": 1831,
-   "titulo": "Apto 62m² Nova Iguaçu - Rio de Janeiro/RJ",
+   "titulo": "Apto 62m² - Nova Iguaçu, Rio de Janeiro/RJ",
    "url": "https://leiloariasmart.com.br/imovel/1831",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/77eb88bf184f1bc20c2845a2d4c53807.png",
    "tipo": "Apartamento",
@@ -200,7 +137,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 160.000,00",
-   "visitas": 1930,
+   "visitas": 2636,
    "pracas": [
     {
      "ordem": 1,
@@ -215,7 +152,7 @@
   },
   {
    "id": 1878,
-   "titulo": "Apto - 374m² - Itapema-SC",
+   "titulo": "Apto 374m² - Itapema/SC",
    "url": "https://leiloariasmart.com.br/imovel/1878",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/04d4a1cee6bc14cad239d9b527db02d2.jpg",
    "tipo": "Apartamento",
@@ -227,7 +164,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 7.499.000,00",
-   "visitas": 42,
+   "visitas": 737,
    "pracas": [
     {
      "ordem": 1,
@@ -242,7 +179,7 @@
   },
   {
    "id": 1879,
-   "titulo": "Apto - 167m² - Praia Grande-SP",
+   "titulo": "Apto 167m² - Praia Grande/SP",
    "url": "https://leiloariasmart.com.br/imovel/1879",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/7a60c558ef891a4c243f5fe728efdee7.jpg",
    "tipo": "Apartamento",
@@ -254,7 +191,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.199.000,00",
-   "visitas": 36,
+   "visitas": 681,
    "pracas": [
     {
      "ordem": 1,
@@ -269,10 +206,10 @@
   },
   {
    "id": 1880,
-   "titulo": "Casa - 268m² - Vargem Grande Paulista-SP",
+   "titulo": "Casa em Condomínio 101,38m² - Vargem Grande Paulista/SP",
    "url": "https://leiloariasmart.com.br/imovel/1880",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/58f6388912b2e5180c52f092876993f7.jpg",
-   "tipo": "Casa",
+   "tipo": "Casa de Condomínio",
    "cidade": "Vargem Grande Paulista",
    "uf": "SP",
    "modalidade": "Extrajudicial",
@@ -281,7 +218,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 299.000,00",
-   "visitas": 43,
+   "visitas": 700,
    "pracas": [
     {
      "ordem": 1,
@@ -296,7 +233,7 @@
   },
   {
    "id": 1881,
-   "titulo": "Apto - 425m² - São Paulo-SP",
+   "titulo": "Apto 425m² - São Paulo/SP",
    "url": "https://leiloariasmart.com.br/imovel/1881",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/fc1a1ce0abeba4d2c0473acc96d04d47.jpg",
    "tipo": "Apartamento",
@@ -308,7 +245,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 5.990.000,00",
-   "visitas": 34,
+   "visitas": 713,
    "pracas": [
     {
      "ordem": 1,
@@ -323,7 +260,7 @@
   },
   {
    "id": 1882,
-   "titulo": "Apto - 146m² - Salvador-BA",
+   "titulo": "Apto 146m² - Salvador/BA",
    "url": "https://leiloariasmart.com.br/imovel/1882",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/fcb2fbd2d3c721115c98e08aaeb6992b.jpg",
    "tipo": "Apartamento",
@@ -335,7 +272,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 999.000,00",
-   "visitas": 41,
+   "visitas": 710,
    "pracas": [
     {
      "ordem": 1,
@@ -350,7 +287,7 @@
   },
   {
    "id": 1883,
-   "titulo": "Casa - 166m² - Barretos-SP",
+   "titulo": "Casa 166m² - Barretos/SP",
    "url": "https://leiloariasmart.com.br/imovel/1883",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/3f48765c8fcae01020a1d0630ef870fa.jpg",
    "tipo": "Casa",
@@ -362,7 +299,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 633.222,65",
-   "visitas": 32,
+   "visitas": 677,
    "pracas": [
     {
      "ordem": 1,
@@ -377,10 +314,10 @@
   },
   {
    "id": 1884,
-   "titulo": "Casa - 252m² - Marechal Deodoro-AL",
+   "titulo": "Casa em Condomínio 125m² - Marechal Deodoro/AL",
    "url": "https://leiloariasmart.com.br/imovel/1884",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/56453c2646d469ea00ce1a54a7ef32ae.jpg",
-   "tipo": "Casa",
+   "tipo": "Casa de Condomínio",
    "cidade": "Marechal Deodoro",
    "uf": "AL",
    "modalidade": "Extrajudicial",
@@ -389,7 +326,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 485.000,00",
-   "visitas": 27,
+   "visitas": 714,
    "pracas": [
     {
      "ordem": 1,
@@ -404,7 +341,7 @@
   },
   {
    "id": 1885,
-   "titulo": "Casa - 200m² - Guapiaçu-SP",
+   "titulo": "Casa 115m² - Guapiaçu/SP",
    "url": "https://leiloariasmart.com.br/imovel/1885",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/6d4079677e6fb6645cc25d518298a38c.jpg",
    "tipo": "Casa",
@@ -416,7 +353,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 229.000,00",
-   "visitas": 28,
+   "visitas": 674,
    "pracas": [
     {
      "ordem": 1,
@@ -431,7 +368,7 @@
   },
   {
    "id": 1886,
-   "titulo": "Casa - 382m² - Itajaí-SC",
+   "titulo": "Casa 382m² - Itajaí/SC",
    "url": "https://leiloariasmart.com.br/imovel/1886",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/8f1cf46e1d606a0af181128e8c0f4723.jpg",
    "tipo": "Casa",
@@ -443,7 +380,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 663.000,00",
-   "visitas": 29,
+   "visitas": 716,
    "pracas": [
     {
      "ordem": 1,
@@ -458,7 +395,7 @@
   },
   {
    "id": 1887,
-   "titulo": "Apto - 60m² - Carapicuíba-SP",
+   "titulo": "Apto 60m² - Carapicuíba/SP",
    "url": "https://leiloariasmart.com.br/imovel/1887",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/67cdfc297494bb25395880599ddc6032.jpg",
    "tipo": "Apartamento",
@@ -470,7 +407,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 399.000,00",
-   "visitas": 25,
+   "visitas": 729,
    "pracas": [
     {
      "ordem": 1,
@@ -497,7 +434,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.230.000,00",
-   "visitas": 987,
+   "visitas": 1569,
    "pracas": [
     {
      "ordem": 1,
@@ -512,7 +449,7 @@
   },
   {
    "id": 1888,
-   "titulo": "Casa - 675m² - Campo Grande-MS",
+   "titulo": "Casa 250m² - Campo Grande/MS",
    "url": "https://leiloariasmart.com.br/imovel/1888",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/c8da59568a4cbac86e911a48483a59e6.jpg",
    "tipo": "Casa",
@@ -524,7 +461,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 599.000,00",
-   "visitas": 26,
+   "visitas": 696,
    "pracas": [
     {
      "ordem": 1,
@@ -539,10 +476,10 @@
   },
   {
    "id": 1889,
-   "titulo": "Casa - 250m² - Limeira-SP",
+   "titulo": "Casa em Condomínio 160m² - Limeira/SP",
    "url": "https://leiloariasmart.com.br/imovel/1889",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/65916476dccf037317820e18be577897.jpg",
-   "tipo": "Casa",
+   "tipo": "Casa de Condomínio",
    "cidade": "Limeira",
    "uf": "SP",
    "modalidade": "Extrajudicial",
@@ -551,7 +488,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 799.000,00",
-   "visitas": 27,
+   "visitas": 704,
    "pracas": [
     {
      "ordem": 1,
@@ -566,10 +503,10 @@
   },
   {
    "id": 1890,
-   "titulo": "Casa - 131m² - Camaragibe-PE",
+   "titulo": "Casa em Condomínio 131m² - Camaragibe/PE",
    "url": "https://leiloariasmart.com.br/imovel/1890",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/ae1708c99304903388bcb8a996c345f6.jpg",
-   "tipo": "Casa",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/73f6a8068dee4098da7b5a9cdda2c6dc.jpg",
+   "tipo": "Casa de Condomínio",
    "cidade": "Camaragibe",
    "uf": "PE",
    "modalidade": "Extrajudicial",
@@ -578,7 +515,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 629.000,00",
-   "visitas": 24,
+   "visitas": 715,
    "pracas": [
     {
      "ordem": 1,
@@ -593,7 +530,7 @@
   },
   {
    "id": 1891,
-   "titulo": "Apto - 43m² - Lauro de Freitas-BA",
+   "titulo": "Apto 43m² - Lauro de Freitas/BA",
    "url": "https://leiloariasmart.com.br/imovel/1891",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/534e69ce0f9a07bf512ad370fbfb2277.jpg",
    "tipo": "Apartamento",
@@ -605,7 +542,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 99.000,00",
-   "visitas": 28,
+   "visitas": 699,
    "pracas": [
     {
      "ordem": 1,
@@ -620,7 +557,7 @@
   },
   {
    "id": 1892,
-   "titulo": "Apto - 106m² - Goiânia-GO",
+   "titulo": "Apto 106m² - Goiânia/GO",
    "url": "https://leiloariasmart.com.br/imovel/1892",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/6b65bea292bc40aaaaf9f2a62cc1181b.jpg",
    "tipo": "Apartamento",
@@ -632,7 +569,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 479.000,00",
-   "visitas": 29,
+   "visitas": 715,
    "pracas": [
     {
      "ordem": 1,
@@ -647,10 +584,10 @@
   },
   {
    "id": 1894,
-   "titulo": "Casa - 224m² - Rio de Janeiro-RJ",
+   "titulo": "Casa em Condomínio 224m² - Rio de Janeiro/RJ",
    "url": "https://leiloariasmart.com.br/imovel/1894",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/f2672def30d525a9e670b600e8326ae2.jpg",
-   "tipo": "Casa",
+   "tipo": "Casa de Condomínio",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
    "modalidade": "Extrajudicial",
@@ -659,7 +596,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.690.000,00",
-   "visitas": 22,
+   "visitas": 681,
    "pracas": [
     {
      "ordem": 1,
@@ -674,7 +611,7 @@
   },
   {
    "id": 1895,
-   "titulo": "Casa - 420m² - Tesouro-MT",
+   "titulo": "Casa 192m² - Tesouro/MT",
    "url": "https://leiloariasmart.com.br/imovel/1895",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/cb08241c447a3b66ddf8a4b4939b92b8.jpg",
    "tipo": "Casa",
@@ -686,7 +623,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 259.000,00",
-   "visitas": 22,
+   "visitas": 653,
    "pracas": [
     {
      "ordem": 1,
@@ -701,7 +638,7 @@
   },
   {
    "id": 1897,
-   "titulo": "Casa - 129m² - São Paulo-SP",
+   "titulo": "Casa 125m² - São Paulo/SP",
    "url": "https://leiloariasmart.com.br/imovel/1897",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/548330f8a709d5044d01befe6c8fae32.jpg",
    "tipo": "Casa",
@@ -713,7 +650,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 316.491,94",
-   "visitas": 25,
+   "visitas": 752,
    "pracas": [
     {
      "ordem": 1,
@@ -728,7 +665,7 @@
   },
   {
    "id": 1896,
-   "titulo": "Terreno - 2.543m² - Cotia-SP",
+   "titulo": "Terreno 2.543m² - Cotia/SP",
    "url": "https://leiloariasmart.com.br/imovel/1896",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/d2e9407d04bc0a589d1acf857bff0a44.jpg",
    "tipo": "Terreno",
@@ -740,7 +677,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 499.000,00",
-   "visitas": 25,
+   "visitas": 701,
    "pracas": [
     {
      "ordem": 1,
@@ -755,7 +692,7 @@
   },
   {
    "id": 1893,
-   "titulo": "Casa - 275m² - Rio Verde-GO",
+   "titulo": "Casa 159m² - Rio Verde/GO",
    "url": "https://leiloariasmart.com.br/imovel/1893",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/c59cff81f0121265c9a4956b0a1fe986.jpg",
    "tipo": "Casa",
@@ -767,7 +704,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 279.000,00",
-   "visitas": 26,
+   "visitas": 698,
    "pracas": [
     {
      "ordem": 1,
@@ -782,7 +719,7 @@
   },
   {
    "id": 1836,
-   "titulo": "CASA 59M²–BEBEDOURO SP",
+   "titulo": "CASA 59m² - BEBEDOURO SP",
    "url": "https://leiloariasmart.com.br/imovel/1836",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/1e5271c8837053fe1394a3c59bac2660.jpg",
    "tipo": "Casa",
@@ -794,7 +731,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 78.660,67",
-   "visitas": 1028,
+   "visitas": 1625,
    "pracas": [
     {
      "ordem": 1,
@@ -809,7 +746,7 @@
   },
   {
    "id": 1835,
-   "titulo": "Casa de Condomínio 347m² Itaboraí/RJ",
+   "titulo": "Casa de Condomínio 347m² - Itaboraí/RJ",
    "url": "https://leiloariasmart.com.br/imovel/1835",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/a909bbc2c476f4bf1075f6f5598b0729.png",
    "tipo": "Casa de Condomínio",
@@ -821,7 +758,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 1561,
+   "visitas": 2166,
    "pracas": [
     {
      "ordem": 1,
@@ -836,11 +773,11 @@
   },
   {
    "id": 1839,
-   "titulo": "3 Terrenos Urb 2500m² cada Brasília/DF",
+   "titulo": "3 Terrenos Urb 2500m² cada - Brasília/DF",
    "url": "https://leiloariasmart.com.br/imovel/1839",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/413b0f0f822a06ac7b3f9152bf5b2710.png",
    "tipo": "Terreno",
-   "cidade": "cada Brasília",
+   "cidade": "Brasília",
    "uf": "DF",
    "modalidade": "Extrajudicial",
    "comitente": "VIRGO Companhia de Securitização S.A",
@@ -848,7 +785,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.046.703,43",
-   "visitas": 1479,
+   "visitas": 2146,
    "pracas": [
     {
      "ordem": 1,
@@ -875,7 +812,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 236.239,60",
-   "visitas": 1821,
+   "visitas": 2515,
    "pracas": [
     {
      "ordem": 1,
@@ -890,7 +827,7 @@
   },
   {
    "id": 1841,
-   "titulo": "Terreno 329m² Muriaé/MG",
+   "titulo": "Terreno 329m² - Muriaé/MG",
    "url": "https://leiloariasmart.com.br/imovel/1841",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/59019c19ff458b35842af0c8cf52f6ca.png",
    "tipo": "Terreno",
@@ -902,7 +839,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 1239,
+   "visitas": 1834,
    "pracas": [
     {
      "ordem": 1,
@@ -929,7 +866,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.450.000,00",
-   "visitas": 555,
+   "visitas": 1570,
    "pracas": [
     {
      "ordem": 1,
@@ -956,7 +893,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 135.000,00",
-   "visitas": 521,
+   "visitas": 1533,
    "pracas": [
     {
      "ordem": 1,
@@ -983,7 +920,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 750.000,00",
-   "visitas": 515,
+   "visitas": 1103,
    "pracas": [
     {
      "ordem": 1,
@@ -1010,7 +947,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 95.590,24",
-   "visitas": 518,
+   "visitas": 1472,
    "pracas": [
     {
      "ordem": 1,
@@ -1037,7 +974,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 95.590,24",
-   "visitas": 517,
+   "visitas": 1089,
    "pracas": [
     {
      "ordem": 1,
@@ -1064,7 +1001,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 394.018,31",
-   "visitas": 515,
+   "visitas": 1084,
    "pracas": [
     {
      "ordem": 1,
@@ -1073,6 +1010,33 @@
      "dataBr": "10/11/2026",
      "hora": "10:50",
      "valor": "R$ 394.018,31",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1907,
+   "titulo": "Terreno Urbano 14.399m² – Atibaia/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1907",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/a54b731f4d9ab32d639070d45bf848c6.jpg",
+   "tipo": "Terreno",
+   "cidade": "Atibaia",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "SICOOB COPERMEC",
+   "situacao": "Desocupado",
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 2.690.000,00",
+   "visitas": 397,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-10",
+     "dataBr": "10/11/2026",
+     "hora": "11:00",
+     "valor": "R$ 2.690.000,00",
      "encerrada": false
     }
    ]
@@ -1091,7 +1055,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 465.700,00",
-   "visitas": 509,
+   "visitas": 1516,
    "pracas": [
     {
      "ordem": 1,
@@ -1118,7 +1082,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 378.000,00",
-   "visitas": 512,
+   "visitas": 1567,
    "pracas": [
     {
      "ordem": 1,
@@ -1145,7 +1109,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 110.000,00",
-   "visitas": 514,
+   "visitas": 1082,
    "pracas": [
     {
      "ordem": 1,
@@ -1172,7 +1136,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 69.000,00",
-   "visitas": 517,
+   "visitas": 1083,
    "pracas": [
     {
      "ordem": 1,
@@ -1199,7 +1163,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 60.000,00",
-   "visitas": 530,
+   "visitas": 1095,
    "pracas": [
     {
      "ordem": 1,
@@ -1226,7 +1190,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 73.000,00",
-   "visitas": 507,
+   "visitas": 1068,
    "pracas": [
     {
      "ordem": 1,
@@ -1253,7 +1217,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 105.000,00",
-   "visitas": 503,
+   "visitas": 1055,
    "pracas": [
     {
      "ordem": 1,
@@ -1280,7 +1244,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 74.087,06",
-   "visitas": 501,
+   "visitas": 1065,
    "pracas": [
     {
      "ordem": 1,
@@ -1307,7 +1271,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 511,
+   "visitas": 1073,
    "pracas": [
     {
      "ordem": 1,
@@ -1334,7 +1298,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 514,
+   "visitas": 1075,
    "pracas": [
     {
      "ordem": 1,
@@ -1361,7 +1325,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 512,
+   "visitas": 1080,
    "pracas": [
     {
      "ordem": 1,
@@ -1388,7 +1352,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 501,
+   "visitas": 1062,
    "pracas": [
     {
      "ordem": 1,
@@ -1415,7 +1379,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 500,
+   "visitas": 1056,
    "pracas": [
     {
      "ordem": 1,
@@ -1430,7 +1394,7 @@
   },
   {
    "id": 1874,
-   "titulo": "Terreno de 1.000m² — São Sebastião da Bela Vista/MG",
+   "titulo": "Terreno 1.000m² — São Sebastião da Bela Vista/MG",
    "url": "https://leiloariasmart.com.br/imovel/1874",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/bf6cc752d4a273523ae619a44cedea56.jpg",
    "tipo": "Terreno",
@@ -1442,7 +1406,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 511,
+   "visitas": 1071,
    "pracas": [
     {
      "ordem": 1,
@@ -1469,7 +1433,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 61.562,45",
-   "visitas": 508,
+   "visitas": 1066,
    "pracas": [
     {
      "ordem": 1,
@@ -1496,7 +1460,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 434.000,00",
-   "visitas": 508,
+   "visitas": 1153,
    "pracas": [
     {
      "ordem": 1,
@@ -1523,7 +1487,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 269.370,00",
-   "visitas": 491,
+   "visitas": 1049,
    "pracas": [
     {
      "ordem": 1,
@@ -1550,7 +1514,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 333.528,35",
-   "visitas": 527,
+   "visitas": 1098,
    "pracas": [
     {
      "ordem": 1,
@@ -1577,7 +1541,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 333.528,37",
-   "visitas": 502,
+   "visitas": 1064,
    "pracas": [
     {
      "ordem": 1,
@@ -1604,7 +1568,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 102.472,68",
-   "visitas": 507,
+   "visitas": 1067,
    "pracas": [
     {
      "ordem": 1,
@@ -1631,7 +1595,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 669.000,00",
-   "visitas": 518,
+   "visitas": 1081,
    "pracas": [
     {
      "ordem": 1,
@@ -1658,7 +1622,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.894.900,00",
-   "visitas": 499,
+   "visitas": 1074,
    "pracas": [
     {
      "ordem": 1,
@@ -1685,7 +1649,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 5.000.000,00",
-   "visitas": 499,
+   "visitas": 1064,
    "pracas": [
     {
      "ordem": 1,
@@ -1700,7 +1664,7 @@
   },
   {
    "id": 1877,
-   "titulo": "Terreno 300m² Campo Belo - São Paulo/SP",
+   "titulo": "Terreno 300m² - Campo Belo, São Paulo/SP",
    "url": "https://leiloariasmart.com.br/imovel/1877",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/2dfbff50b88193bc1ed51bd37a639516.jpg",
    "tipo": "Terreno",
@@ -1708,11 +1672,11 @@
    "uf": "SP",
    "modalidade": "Extrajudicial",
    "comitente": "FIDC Crediblue",
-   "situacao": null,
+   "situacao": "Desocupado",
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.208.343,58",
-   "visitas": 277,
+   "visitas": 882,
    "pracas": [
     {
      "ordem": 1,
@@ -1726,8 +1690,62 @@
    ]
   },
   {
+   "id": 1906,
+   "titulo": "Apto 66m² Gran Ville Reserva Atlântica - Votorantim/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1906",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/76eeea6f1d9e9dec8363e11732c7dbeb.jpg",
+   "tipo": "Apartamento",
+   "cidade": "Votorantim",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "Banco Luso",
+   "situacao": "Desocupado",
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 450.000,00",
+   "visitas": 441,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-18",
+     "dataBr": "18/11/2026",
+     "hora": "14:00",
+     "valor": "R$ 450.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1905,
+   "titulo": "Apto 55m² Gran Ville Reserva Atlântica – Votorantim/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1905",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/5af3b3db84d19103154e733f13a5b816.jpg",
+   "tipo": "Apartamento",
+   "cidade": "Votorantim",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "Banco Luso",
+   "situacao": "Desocupado",
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 350.000,00",
+   "visitas": 447,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-18",
+     "dataBr": "18/11/2026",
+     "hora": "14:00",
+     "valor": "R$ 350.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
    "id": 1898,
-   "titulo": "Casa 211m² Lajeado/RS",
+   "titulo": "Casa 211m² - Lajeado/RS",
    "url": "https://leiloariasmart.com.br/imovel/1898",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/e297ad7472742cfd06376c37aab64699.png",
    "tipo": "Casa",
@@ -1739,7 +1757,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 4,
+   "visitas": 592,
    "pracas": [
     {
      "ordem": 1,
@@ -1753,73 +1771,136 @@
    ]
   },
   {
-   "id": 1840,
-   "titulo": "Complexo de 6 Lotes Urbanos 2.639m² – Goiânia/GO",
-   "url": "https://leiloariasmart.com.br/imovel/1840",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/c57cc02878769d697f67b16906b5687a.jpg",
+   "id": 1899,
+   "titulo": "Lote Urbano 392m² – Loanda/PR",
+   "url": "https://leiloariasmart.com.br/imovel/1899",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/c1fad16296b8c3e0dabf4291fb005950.jpg",
    "tipo": "Terreno",
-   "cidade": "Goiânia",
-   "uf": "GO",
+   "cidade": "Loanda",
+   "uf": "PR",
    "modalidade": "Extrajudicial",
-   "comitente": "FIDC Crediblue",
-   "situacao": null,
-   "desconto": "26%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 3.905.915,92",
-   "visitas": 1218,
+   "comitente": "CRESOL PIONEIRA",
+   "situacao": "Desocupado",
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 45.000,00",
+   "visitas": 544,
    "pracas": [
     {
      "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-10-06",
-     "dataBr": "06/10/2026",
-     "hora": "14:00",
-     "valor": "R$ 3.905.915,92",
-     "encerrada": false
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-10-08",
-     "dataBr": "08/10/2026",
-     "hora": "14:00",
-     "valor": "R$ 2.876.610,15",
+     "rotulo": "Praça única",
+     "data": "2026-11-30",
+     "dataBr": "30/11/2026",
+     "hora": "10:00",
+     "valor": "R$ 45.000,00",
      "encerrada": false
     }
    ]
   },
   {
-   "id": 1844,
-   "titulo": "Casa 82m² – Miguel Pereira/RJ",
-   "url": "https://leiloariasmart.com.br/imovel/1844",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/1056a60977dd2ee51ab3512a0697b281.jpg",
-   "tipo": "Casa",
-   "cidade": "Miguel Pereira",
-   "uf": "RJ",
+   "id": 1900,
+   "titulo": "Área Rural 96.800m² – Iporã/PR",
+   "url": "https://leiloariasmart.com.br/imovel/1900",
+   "imagem": null,
+   "tipo": "Terreno",
+   "cidade": "Iporã",
+   "uf": "PR",
    "modalidade": "Extrajudicial",
-   "comitente": "VERT Companhia Securitizadora",
-   "situacao": null,
-   "desconto": "30%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 307.902,03",
-   "visitas": 1308,
+   "comitente": "CRESOL PIONEIRA",
+   "situacao": "Desocupado",
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 550.000,00",
+   "visitas": 524,
    "pracas": [
     {
      "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-10-09",
-     "dataBr": "09/10/2026",
-     "hora": "14:00",
-     "valor": "R$ 307.902,03",
+     "rotulo": "Praça única",
+     "data": "2026-11-30",
+     "dataBr": "30/11/2026",
+     "hora": "10:15",
+     "valor": "R$ 550.000,00",
      "encerrada": false
-    },
+    }
+   ]
+  },
+  {
+   "id": 1901,
+   "titulo": "Galpão Comercial 585m² – Loanda/PR",
+   "url": "https://leiloariasmart.com.br/imovel/1901",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/449c31df76e8dc1920e1fb52d7e54c94.jpg",
+   "tipo": "Galpão",
+   "cidade": "Loanda",
+   "uf": "PR",
+   "modalidade": "Extrajudicial",
+   "comitente": "CRESOL PIONEIRA",
+   "situacao": "Desocupado",
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 450.000,00",
+   "visitas": 531,
+   "pracas": [
     {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-10-16",
-     "dataBr": "16/10/2026",
-     "hora": "14:00",
-     "valor": "R$ 216.330,69",
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-30",
+     "dataBr": "30/11/2026",
+     "hora": "10:30",
+     "valor": "R$ 450.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1902,
+   "titulo": "Casa Residencial 186m² – Cajuru/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1902",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/5b3e3fe9a9f8a2cd4b5a6458060a5cee.jpg",
+   "tipo": "Casa",
+   "cidade": "Cajuru",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "CRESOL PIONEIRA",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 325.000,00",
+   "visitas": 545,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-30",
+     "dataBr": "30/11/2026",
+     "hora": "10:45",
+     "valor": "R$ 325.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1903,
+   "titulo": "Lote + Barracão 1.648m² – Dois Vizinhos/PR",
+   "url": "https://leiloariasmart.com.br/imovel/1903",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/45aca140be3865ccd65741383cabc697.jpg",
+   "tipo": "Terreno",
+   "cidade": "Dois Vizinhos",
+   "uf": "PR",
+   "modalidade": "Extrajudicial",
+   "comitente": "CRESOL PIONEIRA",
+   "situacao": "Desocupado",
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 800.000,00",
+   "visitas": 541,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-30",
+     "dataBr": "30/11/2026",
+     "hora": "11:00",
+     "valor": "R$ 800.000,00",
      "encerrada": false
     }
    ]
@@ -1838,7 +1919,7 @@
    "desconto": "26%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.632.488,01",
-   "visitas": 2798,
+   "visitas": 3403,
    "pracas": [
     {
      "ordem": 1,
@@ -1874,7 +1955,7 @@
    "desconto": "49%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 1.146.403,49",
-   "visitas": 1410,
+   "visitas": 2493,
    "pracas": [
     {
      "ordem": 1,
@@ -1910,7 +1991,7 @@
    "desconto": "-7%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 100.965,53",
-   "visitas": 970,
+   "visitas": 1548,
    "pracas": [
     {
      "ordem": 1,
@@ -1946,7 +2027,7 @@
    "desconto": "24%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 416.386,75",
-   "visitas": 839,
+   "visitas": 1465,
    "pracas": [
     {
      "ordem": 1,
@@ -1970,7 +2051,7 @@
   },
   {
    "id": 1876,
-   "titulo": "Apto 71m² Goiânia/GO",
+   "titulo": "Apto 71m² - Goiânia/GO",
    "url": "https://leiloariasmart.com.br/imovel/1876",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/b6badeda567c4ffc2ba77d2917f964c6.jpg",
    "tipo": "Apartamento",
@@ -1982,7 +2063,7 @@
    "desconto": "19%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 235.699,88",
-   "visitas": 361,
+   "visitas": 946,
    "pracas": [
     {
      "ordem": 1,
@@ -2006,7 +2087,7 @@
   },
   {
    "id": 1875,
-   "titulo": "Terreno 1.000m² – Limeira/SP",
+   "titulo": "Terreno de 1.000m² – Limeira/SP",
    "url": "https://leiloariasmart.com.br/imovel/1875",
    "imagem": "https://leiloariasmart.com.br/_admin_/upload/fb41fceee1253835ae984170aa15b5d6.jpeg",
    "tipo": "Terreno",
@@ -2018,7 +2099,7 @@
    "desconto": "-16%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 410.688,00",
-   "visitas": 448,
+   "visitas": 1028,
    "pracas": [
     {
      "ordem": 1,
