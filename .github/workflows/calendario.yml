@@ -26,23 +26,36 @@ on:
         type: boolean
         default: false
 
-# Uma publicação por vez. O grupo tem nome fixo (e não a chave dinâmica de
-# sempre) para que o run agendado e um run manual nunca disputem a publicação.
-# Sem cancelar o que está em andamento: isto é deploy de produção, e abortar no
-# meio deixa a implantação travada.
-concurrency:
-  group: pages
-  cancel-in-progress: false
+# NÃO declare concurrency aqui no nível do workflow. Havia `group: pages` neste
+# ponto, e isso causou um apagão de 8 dias (05/10 a 12/10 de 2026): no run
+# 37370487997 a coleta terminou em 8 segundos, mas o job de publicar ficou 7 dias
+# e 16 horas na fila sem pegar runner, segurando o grupo. Como o grupo era do
+# workflow inteiro, toda coleta seguinte entrou atrás da publicação travada e foi
+# cancelada pela próxima — 11 execuções seguidas, nenhuma concluída, e o
+# marketing sem aviso de imóvel novo o período todo.
+#
+# `timeout-minutes` não resolve isso: ele conta a partir do momento em que o job
+# pega runner, não o tempo parado na fila. A trava é manter os grupos separados,
+# um por job, para que publicação travada nunca mais cancele coleta.
 
 jobs:
   dados:
     name: Coletar os lotes
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    # Grupo só da coleta: ela escreve e dá push, então duas nunca podem correr
+    # juntas (o push da segunda seria rejeitado). Como o job inteiro leva poucos
+    # segundos, a fila aqui é desprezível — e, principalmente, ela não tem nada a
+    # ver com o grupo da publicação.
+    concurrency:
+      group: coleta-dos-lotes
+      cancel-in-progress: false
     permissions:
       contents: write
     outputs:
       relato: ${{ steps.coleta.outputs.relato }}
+      aviso_falhou: ${{ steps.aviso.outputs.falhou }}
+      lista: ${{ steps.aviso.outputs.lista }}
     steps:
       # `ref` explícito, e não o checkout padrão: sem ele o job trabalha no
       # commit que disparou o run, que pode estar atrás da ponta de main — e aí
@@ -120,6 +133,15 @@ jobs:
       # `continue-on-error`: um SMTP fora do ar ou senha vencida não pode
       # travar a publicação do calendário, que é o que importa de verdade.
       # Falhando, o passo fica marcado (⚠) no run, mas o job segue.
+      #
+      # O que NÃO pode voltar a acontecer: falhar calado. Até 16/10/2026 este
+      # passo rodava o curl sem olhar o resultado, então um envio recusado era
+      # indistinguível de um envio bem-sucedido — os dois deixavam o log vazio e
+      # a execução verde. Agora o resultado do curl é capturado, o sucesso diz
+      # para quem foi, e a falha vira issue (job `avisar_envio`) levando junto a
+      # lista que ficou sem aviso: o acervo já foi comitado, então a próxima
+      # coleta não enxerga mais esses imóveis como novos e ninguém os anuncia de
+      # novo sozinho.
       - name: Avisar o marketing sobre imóveis novos
         id: aviso
         continue-on-error: true
@@ -176,21 +198,60 @@ jobs:
           rcpt_args=()
           for e in "${para[@]}"; do rcpt_args+=(--mail-rcpt "$e"); done
 
-          curl --silent --show-error --ssl-reqd \
+          # O resultado passa a ser capturado em vez de ignorado. `--silent` cala
+          # a barra de progresso; `--show-error` faz a mensagem de erro cair em
+          # $saida. O segredo não entra aí: o curl não ecoa credencial na
+          # mensagem de erro, e o Actions ainda mascara valor de secret no log.
+          codigo=0
+          saida=$(curl --silent --show-error --ssl-reqd \
             --url 'smtps://smtp.hostinger.com:465' \
             --mail-from "$de" \
             "${rcpt_args[@]}" \
             --user "$de:$SMTP_PASS" \
-            --upload-file email.txt
+            --upload-file email.txt 2>&1) || codigo=$?
 
-          rm -f email.txt novos-imoveis.json
-          echo "Avisei o marketing: $assunto" >> "$GITHUB_STEP_SUMMARY"
+          rm -f email.txt
+
+          if [ "$codigo" -ne 0 ]; then
+            # O rastro vai para o GITHUB_OUTPUT ANTES do exit: saindo primeiro, o
+            # output fica pela metade e o job da issue não recebe a lista.
+            {
+              echo 'falhou=1'
+              echo 'lista<<FIM_DA_LISTA_7b3f'
+              cat novos-imoveis.json
+              echo 'FIM_DA_LISTA_7b3f'
+            } >> "$GITHUB_OUTPUT"
+
+            echo "FALHA AO AVISAR O MARKETING — curl saiu com código $codigo."
+            echo "Destinatários pretendidos: $para_header"
+            echo "Imóveis que ficaram sem aviso: $qtd"
+            echo "Mensagem do curl: $saida"
+            {
+              echo "⚠ **O aviso de imóvel novo não saiu** (curl: $codigo)."
+              echo "$qtd imóvel(is) sem aviso. Veja a issue aberta por este run."
+            } >> "$GITHUB_STEP_SUMMARY"
+            rm -f novos-imoveis.json
+            exit "$codigo"
+          fi
+
+          rm -f novos-imoveis.json
+          echo "Avisei o marketing: $assunto"
+          echo "Destinatários: $para_header"
+          echo "Aceito pelo servidor SMTP (curl saiu 0)."
+          echo "Avisei o marketing ($qtd): $para_header" >> "$GITHUB_STEP_SUMMARY"
 
   publicar:
     name: Publicar no Pages
     needs: dados
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    # Uma publicação por vez, com nome fixo para que run agendado e run manual
+    # não disputem. Este grupo é SÓ deste job: se a infra de Pages do GitHub
+    # segurar a vez por dias (já aconteceu), a coleta e o aviso ao marketing
+    # seguem acontecendo de hora em hora, atrás de outro grupo.
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     permissions:
       contents: read
       pages: write
@@ -216,6 +277,60 @@ jobs:
 
       - id: deploy
         uses: actions/deploy-pages@v5
+
+  # Depende só de `dados`, de propósito: a publicação pode ficar parada na fila
+  # por horas, e o aviso de que o marketing não foi avisado não pode esperar por
+  # ela. `if` sem status de job, que aqui o que importa é a flag do passo.
+  avisar_envio:
+    name: Avisar que o e-mail do marketing não saiu
+    needs: dados
+    if: needs.dados.outputs.aviso_falhou == '1'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      issues: write
+    steps:
+      - name: Abrir issue com a lista que ficou sem aviso
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          LISTA: ${{ needs.dados.outputs.lista }}
+        run: |
+          {
+            echo 'A coleta funcionou e o calendário foi publicado, mas **o e-mail'
+            echo 'de imóvel novo para o marketing não saiu**.'
+            echo
+            echo "**Execução:** $RUN_URL"
+            echo
+            echo 'Por que isso precisa de ação humana: o acervo já foi comitado,'
+            echo 'então a próxima coleta não vê mais estes imóveis como novos e'
+            echo 'ninguém os anuncia de novo sozinho. A lista abaixo é o que ficou'
+            echo 'sem aviso.'
+            echo
+            echo '```json'
+            echo "$LISTA"
+            echo '```'
+            echo
+            echo 'Onde olhar: o passo "Avisar o marketing sobre imóveis novos" no'
+            echo 'log da execução traz o código de saída do curl e a mensagem do'
+            echo 'servidor. Causa mais comum é a senha de `SMTP_PASS` vencida.'
+          } > corpo.md
+
+          # Sem label: o repositório não tem uma para isto e criar label como
+          # efeito colateral de um workflow é estado novo que ninguém pediu. O
+          # título é fixo justamente para servir de chave de deduplicação — uma
+          # issue por vez, comentada enquanto não for fechada, em vez de uma por
+          # execução.
+          titulo='O aviso de imóvel novo para o marketing não saiu'
+          abertas=$(gh issue list --repo "$REPO" --state open --json number,title \
+            --jq ".[] | select(.title == \"$titulo\") | .number" || true)
+
+          if [ -n "$abertas" ]; then
+            gh issue comment "$(echo "$abertas" | head -n 1)" --repo "$REPO" --body-file corpo.md
+          else
+            gh issue create --repo "$REPO" --title "$titulo" --body-file corpo.md
+          fi
 
   avisar:
     name: Avisar que quebrou
