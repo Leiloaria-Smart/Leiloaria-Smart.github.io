@@ -1,8 +1,8 @@
 {
  "fonte": "https://leiloariasmart.com.br/busca",
- "atualizadoEm": "2026-11-11T19:35:21.561Z",
- "total": 43,
- "totalPracas": 47,
+ "atualizadoEm": "2026-11-12T01:54:12.714Z",
+ "total": 50,
+ "totalPracas": 54,
  "primeiraData": "2026-11-12",
  "ultimaData": "2026-12-18",
  "lotes": [
@@ -20,7 +20,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 2.208.343,58",
-   "visitas": 3556,
+   "visitas": 3594,
    "pracas": [
     {
      "ordem": 1,
@@ -47,7 +47,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 450.000,00",
-   "visitas": 3060,
+   "visitas": 3090,
    "pracas": [
     {
      "ordem": 1,
@@ -74,7 +74,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 350.000,00",
-   "visitas": 3096,
+   "visitas": 3127,
    "pracas": [
     {
      "ordem": 1,
@@ -101,7 +101,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.900.000,00",
-   "visitas": 1248,
+   "visitas": 1276,
    "pracas": [
     {
      "ordem": 1,
@@ -128,7 +128,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 300.000,00",
-   "visitas": 3961,
+   "visitas": 3992,
    "pracas": [
     {
      "ordem": 1,
@@ -155,7 +155,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 200.000,00",
-   "visitas": 1404,
+   "visitas": 1437,
    "pracas": [
     {
      "ordem": 1,
@@ -182,7 +182,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 190.000,00",
-   "visitas": 1726,
+   "visitas": 1763,
    "pracas": [
     {
      "ordem": 1,
@@ -209,7 +209,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 149.000,00",
-   "visitas": 1304,
+   "visitas": 1329,
    "pracas": [
     {
      "ordem": 1,
@@ -236,7 +236,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 140.000,00",
-   "visitas": 1311,
+   "visitas": 1337,
    "pracas": [
     {
      "ordem": 1,
@@ -263,7 +263,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 65.000,00",
-   "visitas": 1396,
+   "visitas": 1424,
    "pracas": [
     {
      "ordem": 1,
@@ -290,7 +290,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 820.000,00",
-   "visitas": 3256,
+   "visitas": 3284,
    "pracas": [
     {
      "ordem": 1,
@@ -317,7 +317,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 295.000,00",
-   "visitas": 1282,
+   "visitas": 1308,
    "pracas": [
     {
      "ordem": 1,
@@ -344,7 +344,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.100.000,00",
-   "visitas": 1499,
+   "visitas": 1531,
    "pracas": [
     {
      "ordem": 1,
@@ -371,7 +371,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.650.000,00",
-   "visitas": 163,
+   "visitas": 191,
    "pracas": [
     {
      "ordem": 1,
@@ -398,7 +398,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.234.050,00",
-   "visitas": 17,
+   "visitas": 47,
    "pracas": [
     {
      "ordem": 1,
@@ -425,7 +425,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 3.790.500,00",
-   "visitas": 15,
+   "visitas": 47,
    "pracas": [
     {
      "ordem": 1,
@@ -452,7 +452,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 283.500,00",
-   "visitas": 15,
+   "visitas": 45,
    "pracas": [
     {
      "ordem": 1,
@@ -479,7 +479,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 53.100,00",
-   "visitas": 13,
+   "visitas": 43,
    "pracas": [
     {
      "ordem": 1,
@@ -506,7 +506,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 664.050,00",
-   "visitas": 12,
+   "visitas": 42,
    "pracas": [
     {
      "ordem": 1,
@@ -533,7 +533,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 327.729,54",
-   "visitas": 12,
+   "visitas": 43,
    "pracas": [
     {
      "ordem": 1,
@@ -560,7 +560,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 314.100,00",
-   "visitas": 8,
+   "visitas": 39,
    "pracas": [
     {
      "ordem": 1,
@@ -587,7 +587,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 262.800,00",
-   "visitas": 5,
+   "visitas": 35,
    "pracas": [
     {
      "ordem": 1,
@@ -614,7 +614,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 151.050,00",
-   "visitas": 5,
+   "visitas": 35,
    "pracas": [
     {
      "ordem": 1,
@@ -641,7 +641,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 227.050,00",
-   "visitas": 3,
+   "visitas": 32,
    "pracas": [
     {
      "ordem": 1,
@@ -668,7 +668,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 87.750,00",
-   "visitas": 1,
+   "visitas": 32,
    "pracas": [
     {
      "ordem": 1,
@@ -677,6 +677,114 @@
      "dataBr": "26/11/2026",
      "hora": "11:40",
      "valor": "R$ 87.750,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1947,
+   "titulo": "Casa 354m² – Rio de Janeiro/RJ",
+   "url": "https://leiloariasmart.com.br/imovel/1947",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/cd823470bc085c985840189b7a7d76ee.jpg",
+   "tipo": "Casa",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "modalidade": "Extrajudicial",
+   "comitente": "Banco Inter S.A",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 593.100,00",
+   "visitas": 30,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-26",
+     "dataBr": "26/11/2026",
+     "hora": "11:50",
+     "valor": "R$ 593.100,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1948,
+   "titulo": "Prédio Comercial 938m² – Hortolândia/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1948",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/3f1ebb2e7ea441f0206edd297cee986f.jpg",
+   "tipo": "Prédio",
+   "cidade": "Hortolândia",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "Banco Inter S.A",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 2.650.500,00",
+   "visitas": 30,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-26",
+     "dataBr": "26/11/2026",
+     "hora": "13:30",
+     "valor": "R$ 2.650.500,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1949,
+   "titulo": "Casa 130m² – Arapongas/PR",
+   "url": "https://leiloariasmart.com.br/imovel/1949",
+   "imagem": null,
+   "tipo": "Casa",
+   "cidade": "Arapongas",
+   "uf": "PR",
+   "modalidade": "Extrajudicial",
+   "comitente": "Banco Inter S.A",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 260.100,00",
+   "visitas": 29,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-26",
+     "dataBr": "26/11/2026",
+     "hora": "13:40",
+     "valor": "R$ 260.100,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1950,
+   "titulo": "Apto 69m² – São Paulo/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1950",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/2b23586f8972e2e402865fc269e4a6ee.jpg",
+   "tipo": "Apartamento",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "Banco Inter S.A",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 474.050,00",
+   "visitas": 31,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-26",
+     "dataBr": "26/11/2026",
+     "hora": "13:50",
+     "valor": "R$ 474.050,00",
      "encerrada": false
     }
    ]
@@ -695,7 +803,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 520.000,00",
-   "visitas": 795,
+   "visitas": 821,
    "pracas": [
     {
      "ordem": 1,
@@ -704,6 +812,87 @@
      "dataBr": "26/11/2026",
      "hora": "14:00",
      "valor": "R$ 520.000,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1951,
+   "titulo": "Casa 170m² – Araguaína/TO",
+   "url": "https://leiloariasmart.com.br/imovel/1951",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/82d9653d0d3caa9b3d3b5424180771a1.jpg",
+   "tipo": "Casa",
+   "cidade": "Araguaína",
+   "uf": "TO",
+   "modalidade": "Extrajudicial",
+   "comitente": "Banco Inter S.A",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 269.100,00",
+   "visitas": 28,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-26",
+     "dataBr": "26/11/2026",
+     "hora": "14:00",
+     "valor": "R$ 269.100,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1952,
+   "titulo": "Apto 46m² – Várzea Grande/MT",
+   "url": "https://leiloariasmart.com.br/imovel/1952",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/c8c681d26186b4cbd830e268eadcbaa3.jpg",
+   "tipo": "Apartamento",
+   "cidade": "Várzea Grande",
+   "uf": "MT",
+   "modalidade": "Extrajudicial",
+   "comitente": "Banco Inter S.A",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 94.050,00",
+   "visitas": 26,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-26",
+     "dataBr": "26/11/2026",
+     "hora": "14:10",
+     "valor": "R$ 94.050,00",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1953,
+   "titulo": "Apto 166m² – Goiânia/GO",
+   "url": "https://leiloariasmart.com.br/imovel/1953",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/30a9d42a1f8b18994e85cc85e607e416.jpg",
+   "tipo": "Apartamento",
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "modalidade": "Extrajudicial",
+   "comitente": "Banco Inter S.A",
+   "situacao": null,
+   "desconto": null,
+   "descontoTexto": null,
+   "precoDestaque": "R$ 607.050,00",
+   "visitas": 27,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "Praça única",
+     "data": "2026-11-26",
+     "dataBr": "26/11/2026",
+     "hora": "14:20",
+     "valor": "R$ 607.050,00",
      "encerrada": false
     }
    ]
@@ -722,7 +911,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.250.000,00",
-   "visitas": 840,
+   "visitas": 866,
    "pracas": [
     {
      "ordem": 1,
@@ -749,7 +938,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 710.000,00",
-   "visitas": 814,
+   "visitas": 842,
    "pracas": [
     {
      "ordem": 1,
@@ -776,7 +965,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 320.000,00",
-   "visitas": 830,
+   "visitas": 855,
    "pracas": [
     {
      "ordem": 1,
@@ -803,7 +992,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 45.000,00",
-   "visitas": 3861,
+   "visitas": 3888,
    "pracas": [
     {
      "ordem": 1,
@@ -830,7 +1019,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 550.000,00",
-   "visitas": 3637,
+   "visitas": 3663,
    "pracas": [
     {
      "ordem": 1,
@@ -857,7 +1046,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 450.000,00",
-   "visitas": 3738,
+   "visitas": 3767,
    "pracas": [
     {
      "ordem": 1,
@@ -884,7 +1073,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 325.000,00",
-   "visitas": 3165,
+   "visitas": 3192,
    "pracas": [
     {
      "ordem": 1,
@@ -911,7 +1100,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 800.000,00",
-   "visitas": 3104,
+   "visitas": 3130,
    "pracas": [
     {
      "ordem": 1,
@@ -938,7 +1127,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.600.000,00",
-   "visitas": 836,
+   "visitas": 860,
    "pracas": [
     {
      "ordem": 1,
@@ -965,7 +1154,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 1.179.802,16",
-   "visitas": 781,
+   "visitas": 807,
    "pracas": [
     {
      "ordem": 1,
@@ -992,7 +1181,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 496,
+   "visitas": 521,
    "pracas": [
     {
      "ordem": 1,
@@ -1019,7 +1208,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 80.000,00",
-   "visitas": 671,
+   "visitas": 698,
    "pracas": [
     {
      "ordem": 1,
@@ -1046,7 +1235,7 @@
    "desconto": null,
    "descontoTexto": null,
    "precoDestaque": "R$ 70.000,00",
-   "visitas": 720,
+   "visitas": 745,
    "pracas": [
     {
      "ordem": 1,
@@ -1073,7 +1262,7 @@
    "desconto": "-7%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 610.907,05",
-   "visitas": 837,
+   "visitas": 869,
    "pracas": [
     {
      "ordem": 1,
@@ -1109,7 +1298,7 @@
    "desconto": "27%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 541.047,96",
-   "visitas": 175,
+   "visitas": 210,
    "pracas": [
     {
      "ordem": 1,
@@ -1132,42 +1321,6 @@
    ]
   },
   {
-   "id": 1935,
-   "titulo": "Terreno 1.000m² – Limeira/SP",
-   "url": "https://leiloariasmart.com.br/imovel/1935",
-   "imagem": "https://leiloariasmart.com.br/_admin_/upload/1ef2f4fa46ecbae382fcada66e80b669.jpeg",
-   "tipo": "Terreno",
-   "cidade": "Limeira",
-   "uf": "SP",
-   "modalidade": "Extrajudicial",
-   "comitente": "OCGT",
-   "situacao": "Desocupado",
-   "desconto": "-0%",
-   "descontoTexto": "abaixo na 2ª praça",
-   "precoDestaque": "R$ 388.144,00",
-   "visitas": 44,
-   "pracas": [
-    {
-     "ordem": 1,
-     "rotulo": "1ª praça",
-     "data": "2026-12-02",
-     "dataBr": "02/12/2026",
-     "hora": "14:00",
-     "valor": "R$ 388.144,00",
-     "encerrada": false
-    },
-    {
-     "ordem": 2,
-     "rotulo": "2ª praça",
-     "data": "2026-12-04",
-     "dataBr": "04/12/2026",
-     "hora": "14:00",
-     "valor": "R$ 388.517,87",
-     "encerrada": false
-    }
-   ]
-  },
-  {
    "id": 1934,
    "titulo": "Lote Industrial 1.000m² – Limeira/SP",
    "url": "https://leiloariasmart.com.br/imovel/1934",
@@ -1181,7 +1334,7 @@
    "desconto": "-0%",
    "descontoTexto": "abaixo na 2ª praça",
    "precoDestaque": "R$ 388.144,00",
-   "visitas": 42,
+   "visitas": 68,
    "pracas": [
     {
      "ordem": 1,
@@ -1199,6 +1352,42 @@
      "dataBr": "04/12/2026",
      "hora": "14:00",
      "valor": "R$ 388.606,64",
+     "encerrada": false
+    }
+   ]
+  },
+  {
+   "id": 1935,
+   "titulo": "Terreno 1.000m² – Limeira/SP",
+   "url": "https://leiloariasmart.com.br/imovel/1935",
+   "imagem": "https://leiloariasmart.com.br/_admin_/upload/1ef2f4fa46ecbae382fcada66e80b669.jpeg",
+   "tipo": "Terreno",
+   "cidade": "Limeira",
+   "uf": "SP",
+   "modalidade": "Extrajudicial",
+   "comitente": "OCGT",
+   "situacao": "Desocupado",
+   "desconto": "-0%",
+   "descontoTexto": "abaixo na 2ª praça",
+   "precoDestaque": "R$ 388.144,00",
+   "visitas": 73,
+   "pracas": [
+    {
+     "ordem": 1,
+     "rotulo": "1ª praça",
+     "data": "2026-12-02",
+     "dataBr": "02/12/2026",
+     "hora": "14:00",
+     "valor": "R$ 388.144,00",
+     "encerrada": false
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2ª praça",
+     "data": "2026-12-04",
+     "dataBr": "04/12/2026",
+     "hora": "14:00",
+     "valor": "R$ 388.517,87",
      "encerrada": false
     }
    ]
