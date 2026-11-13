@@ -218,10 +218,33 @@ conferência reclamou.
 
 ## Publicação e atualização automática
 
-Tudo vive em `.github/workflows/calendario.yml`, num único workflow com três
+Tudo vive em `.github/workflows/calendario.yml`, num único workflow com quatro
 jobs. O agendamento é `13 12-22 * * 1-5` — de hora em hora das 12h13 às 22h13
 UTC, segunda a sexta, que é 9h13 às 19h13 em Brasília (UTC-3 o ano todo, sem
 horário de verão).
+
+**Esse `schedule:` é a rede de segurança, não o relógio.** O agendamento do
+GitHub Actions é melhor-esforço por documentação: sob carga ele atrasa ou
+descarta execução, sem SLA. Medido neste repositório entre 28/09 e 15/10/2026:
+2 a 4 coletas por dia, contra as 11 que o cron pede. Quem garante a hora cheia é
+um gatilho externo chamando `workflow_dispatch` — ver
+[Gatilho externo de hora em hora](#gatilho-externo-de-hora-em-hora).
+
+### Cada job no seu grupo de concorrência
+
+Não existe `concurrency` no nível do workflow, e isso é deliberado. Havia
+`group: pages` ali, e o preço apareceu em outubro de 2026: no run
+`37370487997` (05/10) a coleta terminou em 8 segundos, mas o job de publicar
+ficou **7 dias e 16 horas parado na fila sem pegar runner**, segurando o grupo
+do workflow inteiro. Cada coleta seguinte entrou atrás dele e foi cancelada pela
+próxima — de 05/10 a 12/10 foram 11 execuções e **nenhuma concluída**, com o
+marketing sem aviso de imóvel novo o período todo. Os 8 imóveis acumulados
+saíram de uma vez só em 13/10.
+
+`timeout-minutes` não cobre isso: ele conta a partir do momento em que o job pega
+runner, não o tempo na fila. A trava é manter grupos separados — `dados` em
+`coleta-dos-lotes` (para dois pushes nunca correrem juntos) e `publicar` em
+`pages`. Publicação travada atrasa publicação; não cancela mais coleta nenhuma.
 
 ### Aviso ao marketing quando sobe imóvel novo
 
@@ -244,8 +267,75 @@ Secrets and variables → Actions → New repository secret), com a senha da
 caixa `tech@leiloariasmart.com.br`. Host, porta e usuário (SMTP da Hostinger,
 `smtp.hostinger.com:465`) estão fixos no workflow — só a senha é secreta.
 Sem o secret configurado, o passo falha mas **não trava a publicação do
-calendário** (`continue-on-error: true` — ver comentário no workflow);
-ele só aparece marcado no run do Actions.
+calendário** (`continue-on-error: true` — ver comentário no workflow).
+
+**Como saber se o e-mail saiu.** Até 16/10/2026 não dava: o passo rodava o
+`curl` sem olhar o resultado, então envio aceito e envio recusado deixavam o
+mesmo log vazio e a mesma execução verde. Hoje o resultado é registrado:
+
+- **deu certo** — o log do passo diz `Avisei o marketing: …`, lista os
+  destinatários e confirma `Aceito pelo servidor SMTP (curl saiu 0)`; o resumo do
+  run traz a mesma linha;
+- **não deu** — o log traz o código de saída do `curl` e a mensagem do servidor,
+  e o job `avisar_envio` **abre uma issue** (ou comenta na que já estiver aberta,
+  deduplicando pelo título) com a lista dos imóveis que ficaram sem aviso.
+
+Essa issue precisa existir porque o acervo **já foi comitado** quando o envio
+falha: a coleta seguinte não enxerga mais aqueles imóveis como novos, e ninguém
+os anuncia de novo sozinho. Causa mais comum é a senha de `SMTP_PASS` vencida.
+
+O `avisar_envio` depende só do job `dados`, de propósito — a publicação pode
+ficar horas na fila, e o aviso de que o marketing não foi avisado não pode
+esperar por ela.
+
+### Gatilho externo de hora em hora
+
+O `workflow_dispatch` do workflow existe para ser chamado de fora, por um cron
+que não seja o do GitHub. É isso que garante a cadência de hora em hora; o
+`schedule:` fica como rede de segurança, e rodar os dois não faz mal — coleta
+sem imóvel novo não manda e-mail e não gera commit.
+
+**Agendar o disparo** em 9h–19h de segunda a sexta (horário de Brasília), de
+hora em hora, num serviço de cron externo (o cron-job.org atende e é gratuito),
+apontando para:
+
+```
+POST https://api.github.com/repos/Leiloaria-Smart/Leiloaria-Smart.github.io/actions/workflows/calendario.yml/dispatches
+```
+
+Com os cabeçalhos:
+
+```
+Accept: application/vnd.github+json
+Authorization: Bearer <TOKEN>
+X-GitHub-Api-Version: 2022-11-28
+Content-Type: application/json
+```
+
+E o corpo (o `ref` é obrigatório; `inputs` pode ficar de fora que o padrão
+vale):
+
+```json
+{"ref": "main"}
+```
+
+Resposta esperada: **204 No Content**. Qualquer outra coisa é erro — 401 é token
+inválido ou vencido, 403 é escopo faltando, 404 costuma ser token sem acesso ao
+repositório (a API não distingue "não existe" de "não pode ver").
+
+**Escopo mínimo do token.** Um *fine-grained personal access token* restrito a
+este único repositório, com a permissão **Actions: Read and write** e nada mais.
+Não use token clássico com `repo` inteiro: ele daria acesso de escrita ao código.
+Vale pôr validade e anotar o vencimento — token vencido derruba o gatilho em
+silêncio, e aí só o `schedule:` segura.
+
+**Onde guardar o token:** fora do cofre, junto das outras credenciais
+(`%USERPROFILE%\Chave de API.txt`). O valor nunca entra em nota, em código nem
+em commit — aqui está só o procedimento.
+
+**Conferir que funcionou:** depois do primeiro disparo, a execução aparece em
+Actions com evento `workflow_dispatch`. Se parar de aparecer, suspeite do token
+antes de suspeitar do workflow.
 
 ### Por que tudo num run só
 
