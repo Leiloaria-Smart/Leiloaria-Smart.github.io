@@ -384,10 +384,31 @@ async function main() {
     console.error('');
   }
 
+  // Dois arquivos, dois papéis: o calendário carrega o .js, mas a comparação
+  // (e a detecção de imóvel novo) sai do .json. Por isso os dois são olhados
+  // separadamente.
+  //
   // O lotes.js precisa existir para pular a gravação: é ele, e não o .json,
   // que o calendário carrega. Faltando, não há o que preservar — regrava.
-  const anterior = fs.existsSync(SAIDA_JS) ? leAnterior() : null;
-  if (anterior && !forcar && !mudouDeVerdade(anterior, saida)) {
+  const anterior = leAnterior();
+  const faltaJs = !fs.existsSync(SAIDA_JS);
+
+  // Até 16/10/2026, "não existe coleta anterior" e "existe e está ilegível"
+  // eram a mesma coisa aqui, e isso fazia o aviso ao marketing sumir calado:
+  // um .json corrompido faz leAnterior() devolver null, e com null o bloco de
+  // detecção de imóvel novo lá embaixo é pulado inteiro — sem erro, sem aviso,
+  // execução verde. Agora o caso tem nome e aparece no log.
+  if (fs.existsSync(SAIDA) && !anterior) {
+    console.error('');
+    console.error('ATENÇÃO: existe coleta anterior, mas não consegui lê-la.');
+    console.error(`  ${SAIDA} está corrompido ou fora do formato esperado.`);
+    console.error('  Vou regravar, e o calendário volta ao normal — mas NESTA coleta');
+    console.error('  não há como dizer o que é imóvel novo, então o marketing NÃO');
+    console.error('  será avisado. Se isto se repetir, confira o arquivo.');
+    console.error('');
+  }
+
+  if (anterior && !faltaJs && !forcar && !mudouDeVerdade(anterior, saida)) {
     console.log('\nO acervo está igual ao da última coleta — não reescrevi nada.');
     console.log(`  ${saida.total} lotes | ${saida.totalPracas} datas de praça`);
     console.log(`  dados de ${anterior.atualizadoEm}`);
